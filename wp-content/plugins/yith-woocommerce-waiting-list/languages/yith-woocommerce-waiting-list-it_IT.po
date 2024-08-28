@@ -1,0 +1,1167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Waiting List\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2024-01-23 14:19:25+00:00\n"
+"PO-Revision-Date: 2018-05-16 15:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcwtl-admin.php:189
+#, fuzzy
+msgid "Form in Product Page"
+msgstr "Il nome del prodotto"
+
+#: includes/class.yith-wcwtl-admin.php:193
+#, fuzzy
+msgid "Email Settings"
+msgstr "Impostazioni email \"Disponibile\""
+
+#: includes/class.yith-wcwtl-admin.php:224
+msgid "Advanced design & style options"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:225
+msgid ""
+"Customize the waiting list subscription box (background color, border "
+"radius, padding, etc.) and the notification messages for successful "
+"subscription or errors."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:228
+msgid "Google reCAPTCHA integration"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:229
+msgid "The best way to prevent spam registration."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:232
+msgid "Use the social proof principle to push users to subscribe "
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:233
+msgid ""
+"Show a counter with the number of users subscribed to your products’ "
+"waitlists."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:236
+msgid "Require email confirmation"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:237
+msgid ""
+"Choose whether to send a confirmation email to all users or just guest users "
+"to verify the email address used for the waiting list."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:240
+msgid "Email notifications for shop owner and customer"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:241
+msgid ""
+"Both the admin and the user get a notification email to confirm the users is "
+"added in the product’s waitlist."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:244
+msgid "An easy way to track and manage all waitlists"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:245
+msgid ""
+"Use the dedicated table to monitor the products with a waiting list and the "
+"users who subscribed to it.\n"
+"\n"
+" You can also manually add a user in a waitlist and export the email "
+"addresses of a waitlist in a CSV file."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:248
+msgid "Reduce effort and enable the automatic sending of Back In Stock email"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:249
+msgid ""
+"Avoid time and effort and automatically send emails to users in the list "
+"when the product is back in stock.\n"
+"\n"
+" Customize the email through the advanced editor for a better result!"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:252
+msgid "Cross-sell in the right way and sell more"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:253
+msgid ""
+"Send a cross-sell email to recommend similar products in case the products "
+"the users subscribed to are not available."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:256
+msgid "Get regular updates and support"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:257
+msgid ""
+"Regular WordPress & WooCommerce updates, new features and technical support."
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:306
+msgid "Do you really want to send the mail?"
+msgstr "Vuoi veramente mandare l'email?"
+
+#: includes/class.yith-wcwtl-admin.php:462
+#: includes/email/class.yith-wcwtl-mail.php:236
+#, fuzzy
+msgid "Customer"
+msgstr "È cliente"
+
+#: includes/class.yith-wcwtl-frontend.php:474
+#, fuzzy
+msgid ""
+"You must provide a valid email address to join the waitlist for this product."
+msgstr ""
+"Devi fornire un indirizzo email valido per iscriverti alla lista di attesa "
+"di questo prodotto"
+
+#: includes/class.yith-wcwtl-frontend.php:477
+msgid "You must accept our Privacy Policy to join the waitlist"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:592
+#: includes/class.yith-wcwtl-meta.php:108
+#, fuzzy
+msgid "Waitlist"
+msgstr "Lista di attesa"
+
+#. translators: %s stand for the product variation ID.
+#: includes/class.yith-wcwtl-meta.php:126
+#, fuzzy
+msgid "Waitlist for variation: #%s"
+msgstr "Lista di attesa per variazione: #%s"
+
+#. translators: %s stand for the number of subscribed users on waiting list.
+#: includes/class.yith-wcwtl-meta.php:184
+#, fuzzy
+msgid "There is %s user on the waitlist for this product."
+msgid_plural "There are %s users on the waitlist for this product"
+msgstr[0] "C'è %s utente nella lista di attesa per questo prodotto"
+msgstr[1] "Ci sono %s utenti nella lista di attesa per questo prodotto"
+
+#: includes/class.yith-wcwtl-meta.php:207
+#, fuzzy
+msgid "There are no users on this waitlist"
+msgstr "Non ci sono utenti in questa lista di attesa"
+
+#: includes/class.yith-wcwtl-meta.php:233
+msgid "Send the email to the users"
+msgstr "Invia l'email agli utenti"
+
+#: includes/class.yith-wcwtl-meta.php:274
+msgid "Email sent correctly."
+msgstr "Email inviata correttamente."
+
+#: includes/class.yith-wcwtl-privacy-dpa.php:40
+#, fuzzy
+msgid "When you subscribe to a waitlist, we will track:"
+msgstr ""
+"Questa email viene inviata per conferma quando un utente si sottoscrive ad "
+"una lista di attesa."
+
+#: includes/class.yith-wcwtl-privacy-dpa.php:42
+msgid ""
+"Email address: we'll use this to populate a list that is used to send you "
+"notifications about subscribed product availability."
+msgstr ""
+
+#: includes/class.yith-wcwtl-privacy-dpa.php:46
+msgid ""
+"Members of our team have access to the information you provide to us. For "
+"example, both Administrators and Shop Managers can access your email address."
+msgstr ""
+
+#: includes/class.yith-wcwtl.php:308 includes/class.yith-wcwtl.php:345
+#: includes/class.yith-wcwtl.php:372
+#, fuzzy
+msgid "Waitlist Data"
+msgstr "Waiting List"
+
+#: includes/class.yith-wcwtl.php:349
+#, fuzzy
+msgid "Waitlist Subscriptions"
+msgstr "Email di iscrizione di YITH Waiting list"
+
+#. translators: %s stands for product name.
+#: includes/class.yith-wcwtl.php:410
+msgid "Removed customer from the waitlist for \"%s\"."
+msgstr ""
+
+#. translators: Title used for custom email in WooCommerce -> Settings ->
+#. Emails
+#: includes/email/class.yith-wcwtl-mail-admin.php:32
+msgid "YITH Waitlist - User Subscribed"
+msgstr ""
+
+#. translators: Title used for custom email in WooCommerce -> Settings ->
+#. Emails
+#: includes/email/class.yith-wcwtl-mail-instock.php:32
+#, fuzzy
+msgid "YITH Waitlist - Product Back in Stock"
+msgstr "Email \"Disponibile\" da YITH Waiting List "
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:33
+#, fuzzy
+msgid ""
+"When a product is back in stock, this email is sent to all the users "
+"registered on its waitlist."
+msgstr ""
+"Questa email viene inviata a tutti gli utenti registrati alla lista di "
+"attesa di un prodotto quando è di nuovo disponibile."
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:61
+#, fuzzy
+msgid "The wait is over: a product you like is back in stock"
+msgstr "Un prodotto che stai aspettando è di nuovo disponibile"
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:62
+msgid "A product you are waiting for is back in stock"
+msgstr "Un prodotto che stai aspettando è di nuovo disponibile"
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:63
+msgid ""
+"Hi {username},\n"
+" We're happy to let you know that the {product_title_with_link} on your "
+"waitlist just came back in stock!\n"
+" Because you asked, we wanted to make sure you're the first one to know, but "
+"we can't guarantee the item will remain available for long.\n"
+" Hit the link below to get it before it's gone!{product_info}\n"
+"\n"
+" Best regards,\n"
+"{blogname}"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:71
+msgid "%sAnalytics tracking parameters Premium%s"
+msgstr ""
+
+#. translators: %s stand for the default email content text.
+#: includes/email/class.yith-wcwtl-mail-instock.php:75
+msgid ""
+"Enter the parameters to add to the product link. Enter each parameter on a "
+"new line in the format “utm_source=waitlist;” (without quotes). You can also "
+"use {product_id} and {product_sku} as placeholders for the ID and SKU of the "
+"product"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:117
+msgid "link"
+msgstr "link"
+
+#. translators: Title used for custom email in WooCommerce -> Settings ->
+#. Emails
+#: includes/email/class.yith-wcwtl-mail-promotion.php:32
+#, fuzzy
+msgid "YITH Waitlist - Promotional"
+msgstr "Email \"Disponibile\" da YITH Waiting List "
+
+#. translators: Title used for custom email in WooCommerce -> Settings ->
+#. Emails
+#: includes/email/class.yith-wcwtl-mail-subscribe-optin.php:32
+msgid "YITH Waitlist - Request Confirmation"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-subscribe-optin.php:33
+#, fuzzy
+msgid ""
+"When a user subscribes to a waitlist, this email is sent to request "
+"confirmation."
+msgstr ""
+"Questa email viene inviata per conferma quando un utente si sottoscrive ad "
+"una lista di attesa."
+
+#. translators: Title used for custom email in WooCommerce -> Settings ->
+#. Emails
+#: includes/email/class.yith-wcwtl-mail-subscribe.php:31
+#, fuzzy
+msgid "YITH Waitlist - Subscription Email"
+msgstr "Email \"Disponibile\" da YITH Waiting List "
+
+#: includes/email/class.yith-wcwtl-mail-subscribe.php:32
+#, fuzzy
+msgid ""
+"When a user subscribes to a waitlist, this email is sent to confirm the "
+"subscription."
+msgstr ""
+"Questa email viene inviata per conferma quando un utente si sottoscrive ad "
+"una lista di attesa."
+
+#: includes/email/class.yith-wcwtl-mail.php:111
+msgid "Email content"
+msgstr "Contenuto email"
+
+#. translators: %s stand for the default email content text.
+#: includes/email/class.yith-wcwtl-mail.php:115
+msgid "Defaults to <code>%s</code>"
+msgstr "Predefinito: <code>%s</code>"
+
+#: includes/email/class.yith-wcwtl-mail.php:124
+msgid "Footer text"
+msgstr ""
+
+#. translators: %s stand for the default email content text.
+#: includes/email/class.yith-wcwtl-mail.php:127
+msgid "Text to show in the footer for this email"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail.php:132
+#, fuzzy
+msgid "Show product image"
+msgstr "Mostra la miniatura del prodotto"
+
+#: includes/email/class.yith-wcwtl-mail.php:135
+#, fuzzy
+msgid "Enable to show the product image in the email"
+msgstr "Attiva per mostrare la miniatura del prodotto nell'email"
+
+#: includes/tinymce/tinymce-plugin-langs.php:25
+#, fuzzy
+msgid "The Blog Name"
+msgstr "Il nome del blog"
+
+#: includes/tinymce/tinymce-plugin-langs.php:26
+msgid "The Site Title"
+msgstr "Il titolo del sito"
+
+#: includes/tinymce/tinymce-plugin-langs.php:27
+msgid "The Product Name"
+msgstr "Il nome del prodotto"
+
+#: includes/tinymce/tinymce-plugin-langs.php:28
+#, fuzzy
+msgid "The Product Price"
+msgstr "Il nome del prodotto"
+
+#: includes/tinymce/tinymce-plugin-langs.php:29
+#, fuzzy
+msgid "The Product SKU"
+msgstr "Il nome del prodotto"
+
+#: includes/tinymce/tinymce-plugin-langs.php:30
+msgid "The Unsubscribe link"
+msgstr ""
+
+#: includes/tinymce/tinymce-plugin-langs.php:34
+msgid "The Product Link"
+msgstr "Il link del prodotto"
+
+#: includes/tinymce/tinymce-plugin-langs.php:36
+msgid "Unsubscribe link"
+msgstr ""
+
+#: includes/tinymce/tinymce-plugin-langs.php:38
+msgid "Confirm subscription link"
+msgstr ""
+
+#: includes/tinymce/tinymce-plugin-langs.php:40
+#, fuzzy
+msgid "The user email"
+msgstr "Mantieni la lista dopo l'email"
+
+#: init.php:52
+#, fuzzy
+msgid ""
+"YITH WooCommerce Waitlist is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Waiting List è attivo ma non operativo. Il suo "
+"funzionamento richiede WooCommerce."
+
+#: init.php:66
+msgid ""
+"You can't activate the free version of YITH WooCommerce Waitlist while you "
+"are using the premium one."
+msgstr ""
+
+#: plugin-options/email-options.php:23
+#: templates/admin/email-settings-tab.php:19
+#, fuzzy
+msgid "Email"
+msgstr "email"
+
+#: plugin-options/email-options.php:24
+msgid "Manage and customize the emails sent to users about waitlists."
+msgstr ""
+
+#. translators: Title for section "Customizations in waitlist -> Form in
+#. Product Page -> Customization"
+#: plugin-options/form/customization-options.php:17
+msgid "Customization Options"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:25
+#, fuzzy
+msgid "Section background"
+msgstr "Sfondo del pulsante \"Iscriviti\""
+
+#: plugin-options/form/customization-options.php:26
+#, fuzzy
+msgid "Set the background color for the waitlist section on product pages."
+msgstr ""
+"Imposta il colore del tipo di carattere del form della lista di attesa nelle "
+"pagine prodotto"
+
+#: plugin-options/form/customization-options.php:37
+msgid "Notice to show in out-of-stock products"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:38
+#, fuzzy
+msgid "A message to show before the waitlist form on single product pages."
+msgstr ""
+"Un messaggio da mostrare prima del form della lista di attesa nelle pagine "
+"del singolo prodotto."
+
+#: plugin-options/form/customization-options.php:45
+msgid ""
+"%1$s%2$sThis product is currently sold out.%3$s%4$s Don't worry! Enter your "
+"email and we'll notify you when it's available again."
+msgstr ""
+
+#: plugin-options/form/customization-options.php:58
+msgid "Form placeholder"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:59
+msgid "Enter an optional placeholder to show inside the input field."
+msgstr ""
+
+#: plugin-options/form/customization-options.php:65
+#: templates/yith-wcwtl-form.php:27
+#, fuzzy
+msgid "Enter your email address"
+msgstr "Indirizzo email"
+
+#: plugin-options/form/customization-options.php:70
+#, fuzzy
+msgid "Button Label"
+msgstr "Etichetta del pulsante elimina"
+
+#: plugin-options/form/customization-options.php:71
+msgid "Enter the button label."
+msgstr ""
+
+#: plugin-options/form/customization-options.php:74
+#, fuzzy
+msgid "Add to waitlist"
+msgstr "Aggiungi alla lista di attesa"
+
+#: plugin-options/form/customization-options.php:79
+#, fuzzy
+msgid "Button colors"
+msgstr "Colore del tipo di carattere"
+
+#: plugin-options/form/customization-options.php:80
+#: plugin-options/form/customization-options.php:160
+#, fuzzy
+msgid "Set the color for the waitlist button."
+msgstr "Scegli il colore del testo per il pulsante \"Iscriviti\""
+
+#: plugin-options/form/customization-options.php:133
+#, fuzzy
+msgid "Show removal button"
+msgstr "Etichetta del pulsante elimina"
+
+#: plugin-options/form/customization-options.php:134
+msgid ""
+"Enable to allow users to remove their email addresses from the waitlist."
+msgstr ""
+
+#: plugin-options/form/customization-options.php:145
+#, fuzzy
+msgid "Removal button label"
+msgstr "Etichetta del pulsante elimina"
+
+#: plugin-options/form/customization-options.php:146
+#, fuzzy
+msgid "Enter the removal button label."
+msgstr "Etichetta del pulsante elimina"
+
+#: plugin-options/form/customization-options.php:149
+#, fuzzy
+msgid "Leave waitlist"
+msgstr "Abbandona la lista di attesa"
+
+#: plugin-options/form/customization-options.php:159
+#, fuzzy
+msgid "Removal button colors"
+msgstr "Colore del testo del pulsante elimina"
+
+#: plugin-options/form/customization-options.php:218
+#, fuzzy
+msgid "Subscription message"
+msgstr "Messaggio di iscrizione"
+
+#: plugin-options/form/customization-options.php:222
+msgid ""
+"We added you to this product's waitlist and we'll send you an email when the "
+"product is available."
+msgstr ""
+
+#. translators: Title for options section in Waiting List -> Form in Product
+#. Page -> Options
+#: plugin-options/form/settings-options.php:17
+#, fuzzy
+msgid "Form Options"
+msgstr "Opzioni generali"
+
+#: plugin-options/form/settings-options.php:24
+msgid "Enable Privacy Policy checkbox"
+msgstr ""
+
+#: plugin-options/form/settings-options.php:25
+msgid "Show a mandatory Privacy Policy checkbox under the Waitlist form."
+msgstr ""
+
+#: plugin-options/form/settings-options.php:36
+msgid "Privacy checkbox text"
+msgstr ""
+
+#: plugin-options/form/settings-options.php:38
+msgid ""
+"Enter the text to show in the Privacy Policy checkbox field in the Waiting "
+"List form.\n"
+"You can use the shortcode [terms] and [privacy_policy] (from WooCommerce "
+"3.4.0).\n"
+"\n"
+"Don't forget to set the \"Privacy Policy\" and \"Terms\" pages in Appearance "
+"> Customize > WooCommerce > Checkout. "
+msgstr ""
+
+#. translators: %s stands for HTML link tag.
+#: plugin-options/form/settings-options.php:47
+msgid "I have read and accept the %1$s Privacy Policy %2$s"
+msgstr ""
+
+#: plugin-options/form/settings-options.php:64
+msgid "Enable Google reCAPTCHA"
+msgstr ""
+
+#: plugin-options/form/settings-options.php:65
+msgid "Enable Google reCAPTCHA to avoid spam registrations."
+msgstr ""
+
+#: plugin-options/form-options.php:18
+#, fuzzy
+msgid "Options"
+msgstr "Azioni"
+
+#: plugin-options/form-options.php:19
+#, fuzzy
+msgid ""
+"Set the general options of the Waitlist form shown on the product pages."
+msgstr ""
+"Imposta il colore del tipo di carattere del form della lista di attesa nelle "
+"pagine prodotto"
+
+#. translators: Main section title you find in Waiting List -> Form in Product
+#. Page -> Customization
+#: plugin-options/form-options.php:23
+#, fuzzy
+msgid "Customization"
+msgstr "Contenuto email"
+
+#: plugin-options/form-options.php:24
+msgid ""
+"Customize the design of the form and the notices shown on the product pages."
+msgstr ""
+
+#: templates/admin/email-settings-single.php:23
+#: templates/admin/email-settings-single.php:24
+msgid "Save"
+msgstr ""
+
+#: templates/admin/email-settings-tab.php:27
+msgid "Recipient"
+msgstr ""
+
+#: templates/admin/email-settings-tab.php:54
+#, fuzzy
+msgid "Premium"
+msgstr "Versione premium"
+
+#: templates/admin/email-settings-tab.php:73
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:217 templates/admin/premium.php:441
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Waiting List%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:221 templates/admin/premium.php:445
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:222 templates/admin/premium.php:446
+#, fuzzy
+msgid "to the premium version"
+msgstr "Versione premium"
+
+#: templates/admin/premium.php:237
+#, fuzzy
+msgid "Custom messages"
+msgstr "Messaggio di iscrizione"
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:241
+msgid ""
+"Notifications shown to your users during their subscription to the list are "
+"entirely customizable.%3$s Write the message text you want to show both for "
+"%1$ssuccessful subscription%2$s and for %1$sunsuccessful subscription%2$s"
+msgstr ""
+
+#: templates/admin/premium.php:251
+msgid "Send emails automatically"
+msgstr ""
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:256
+msgid ""
+"An option explicitly conceived to relieve you of the task to manually "
+"generate the email as soon as the product status is set as “Available”. "
+"%3$sIn fact, with the premium version, %1$semail sending is automatic%2$s "
+"and allows you to automatically manage them and keep your users up to date."
+msgstr ""
+
+#: templates/admin/premium.php:276
+#, fuzzy
+msgid "Keep the list after sending the email"
+msgstr "Mantieni la lista di attesa dopo aver inviato l'email."
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:281
+msgid ""
+"If you do not want your list is emptied after the product comes back as "
+"\"available\", enable the option %1$s\"Keep the list after email\"%2$s and "
+"you will be able to generate a new email for users in that list whenever you "
+"want."
+msgstr ""
+
+#: templates/admin/premium.php:292
+msgid "Customize the style"
+msgstr ""
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:297
+msgid ""
+"A rich panel option from which you can shape buttons for subscription and "
+"deletion from the list and suit them to the layout of your shop. %1$sDetails "
+"are what make the difference%2$s and you must have the best tools to get the "
+"best results."
+msgstr ""
+
+#: templates/admin/premium.php:314
+#, fuzzy
+msgid "Notification email"
+msgstr "Email automatica"
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:319
+msgid ""
+"Any time users sends a subscription request, they will be instantly sent a "
+"notification email that confirms they have been successfully added to the "
+"list. %3$sMoreover, from the same email %1$sthey will be able to "
+"unsubscribe%2$s from the list whenever they wanted."
+msgstr ""
+
+#: templates/admin/premium.php:333
+#, fuzzy
+msgid "Custom email content"
+msgstr "Contenuto email"
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:338
+msgid ""
+"The plugin generates two types of email, one that confirms a successful "
+"subscription and abother one to inform users that the product is back in "
+"store. For both of them, %1$syou can customize contents and template file as "
+"you like%2$s. Product data can be recovered dynamically using specific "
+"placeholders."
+msgstr ""
+
+#: templates/admin/premium.php:358
+#, fuzzy
+msgid "Exclusion List"
+msgstr "Lista esclusioni"
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:363
+msgid ""
+"Do you want that the plugin works only for some and not all \"out of stock\" "
+"products? %1$sExclusion list table%2$s has been developed to meet your need "
+"and to allow you to exclude some specific products for which no email has to "
+"be sent as they come back in stock."
+msgstr ""
+
+#: templates/admin/premium.php:374
+msgid "Waiting list Checklist"
+msgstr "Elenco liste di attesa"
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:379
+msgid ""
+"\"Waiting List Checklist\" tab allows you to check any moment the status of "
+"waiting lists for %1$sout-of-stock products%2$s. "
+msgstr ""
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:385
+msgid ""
+"For each of them, you have the following options available: %1$sdelete "
+"list%2$s, %1$ssend email%2$s and a %1$sbutton through which you can access "
+"to the list with users%2$s. %3$sNothing prevents you from adding a new user "
+"to the list whenever you want."
+msgstr ""
+
+#: templates/admin/premium.php:402
+#, fuzzy
+msgid "Mandrill"
+msgstr "Utilizza Mandrill "
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:407
+msgid ""
+"The use of Mandrill is recommended to those who need to manage in an "
+"%1$sadvanced way%2$s the email sending for their shop.%3$s The integration "
+"with %1$sMandrill%2$s allows managing also those emails sent by YITH "
+"WooCommerce Waiting List in an optimal way."
+msgstr ""
+
+#: templates/admin/premium.php:418
+msgid "Shortcode"
+msgstr ""
+
+#. translators: %s: TODO description.
+#: templates/admin/premium.php:423
+msgid ""
+"The shortcode has been conceived to allow your users to register to a "
+"specific product %1$swaiting list%2$s in any spot of the site not only "
+"necessarily on the product page.%3$s Manage your contents in the best "
+"possible way and place the button %1$sstrategically%2$s in your pages."
+msgstr ""
+
+#: templates/yith-wcwtl-my-waitlist.php:19
+msgid "Product"
+msgstr "Prodotto"
+
+#: templates/yith-wcwtl-my-waitlist.php:20
+msgid "Variation"
+msgstr "Variazione"
+
+#: templates/yith-wcwtl-my-waitlist.php:21
+msgid "Stock Status"
+msgstr "Stato del magazzino"
+
+#: templates/yith-wcwtl-my-waitlist.php:34
+#, fuzzy
+msgid "Waitlists"
+msgstr "Lista di attesa"
+
+#: templates/yith-wcwtl-my-waitlist.php:155
+#, fuzzy
+msgid "You haven't subscribed to a waitlist."
+msgstr "Non sei sottoscritto a nessuna lista."
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Waiting List</strong></code> plugin "
+"allows your customers to request an email notification when an out-of-stock "
+"product comes back into stock. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</"
+"strong></a>."
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:190
+msgctxt "[Button label] Send email to users in list"
+msgid "Send"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:86
+msgctxt "Option: background color for waitlist button"
+msgid "Background"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:95
+msgctxt "Option: color for waitlist button text"
+msgid "Text"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:104
+msgctxt "Option: background color for waitlist button on hover status"
+msgid "Background hover"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:117
+#: plugin-options/form/customization-options.php:197
+msgctxt "Option: color for waitlist text button on hover status"
+msgid "Text hover"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:166
+msgctxt "Option: background color for remove button"
+msgid "Background"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:175
+msgctxt "Option: color for the remove button text"
+msgid "Text"
+msgstr ""
+
+#: plugin-options/form/customization-options.php:184
+msgctxt "Option: background color for remove button on hover status"
+msgid "Background hover"
+msgstr ""
+
+#: templates/admin/email-settings-tab.php:36
+#, fuzzy
+msgctxt "[ADMIN] Column name table emails"
+msgid "Active"
+msgstr "Azione"
+
+#: templates/email/yith-wcwtl-product-info.php:51
+msgctxt "[EMAIL: In stock] Button label"
+msgid "Shop now"
+msgstr ""
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "{product_title} is now back in stock on {blogname}"
+#~ msgstr "{product_title} ora è di nuovo disponibile su {blogname}"
+
+#~ msgid ""
+#~ "Hi, {product_title} is now back in stock on {blogname}. You have been "
+#~ "sent this email because your email address was registered in a waiting "
+#~ "list for this product. If you would like to purchase {product_title}, "
+#~ "please visit the following link: {product_link}"
+#~ msgstr ""
+#~ "Ciao, {product_title} ora è di nuovo disponibile su {blogname}. Questa "
+#~ "email ti è stata inviata perché il tuo indirizzo è stato registrato in "
+#~ "una lista di attesa per questo prodotto. Se vuoi acquistare "
+#~ "{product_title}, per favore visita il link seguente: {product_link}"
+
+#~ msgid "Enable Waiting List"
+#~ msgstr "Attiva Waiting List"
+
+#~ msgid "The label of the button to be removed from the waiting list"
+#~ msgstr "L'etichetta del pulsante per essere rimossi dalla lista di attesa"
+
+#~ msgid "Save changes"
+#~ msgstr "Salva modifiche"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Documentazione plugin"
+
+#~ msgid "product"
+#~ msgstr "prodotto"
+
+#~ msgid "products"
+#~ msgstr "prodotti"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Miniatura"
+
+#~ msgid "Edit product"
+#~ msgstr "Modifica prodotto"
+
+#~ msgid "Remove"
+#~ msgstr "Elimina"
+
+#~ msgid "Remove from list"
+#~ msgstr "Elimina dalla lista"
+
+#~ msgid "waiting list"
+#~ msgstr "lista di attesa"
+
+#~ msgid "waiting lists"
+#~ msgstr "liste di attesa"
+
+#~ msgid "Users in the Waiting list"
+#~ msgstr "Utenti nella lista di attesa"
+
+#~ msgid "Delete Waiting list"
+#~ msgstr "Elimina la lista di attesa"
+
+#~ msgid "View Users"
+#~ msgstr "Visualizza utenti"
+
+#~ msgid "Send email"
+#~ msgstr "Invia email"
+
+#~ msgid "Delete waiting list"
+#~ msgstr "Elimina la lista di attesa"
+
+#~ msgid "user"
+#~ msgstr "utente"
+
+#~ msgid "users"
+#~ msgstr "utenti"
+
+#~ msgid "Yes"
+#~ msgstr "Sì"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Remove User"
+#~ msgstr "Elimina utente"
+
+#~ msgid "Send Email"
+#~ msgstr "Invia email"
+
+#~ msgid "Style"
+#~ msgstr "Stile"
+
+#~ msgid "Subscription Email Settings"
+#~ msgstr "Impostazioni email iscrizione"
+
+#~ msgid ""
+#~ "You have successfully sent the email to the users of the waiting list!"
+#~ msgstr "Hai inviato con successo l'email agli utenti della lista di attesa!"
+
+#~ msgid "An error occurred sending the email to the users. Please try again."
+#~ msgstr ""
+#~ "Si è verificato un errore durante l'invio dell'email agli utenti. Per "
+#~ "favore riprova."
+
+#~ msgid "An error occurred, please try again."
+#~ msgstr "Si è verificato un errore, per favore riprova."
+
+#~ msgid "Enable this option to show the product thumbnail in the email"
+#~ msgstr ""
+#~ "Attiva questa opzione per mostrare la miniatura del prodotto nell'email"
+
+#~ msgid "You are now in the waiting list for {product_title}"
+#~ msgstr "Ora sei nella lista di attesa per {product_title}"
+
+#~ msgid "Subscription confirmation for waiting list"
+#~ msgstr "Conferma iscrizione alla lista di attesa"
+
+#~ msgid ""
+#~ "Hi, your email address has been saved and you will be notified when "
+#~ "{product_title} is back in stock on {blogname}. If you want to be removed "
+#~ "from this list, please click {remove_link}"
+#~ msgstr ""
+#~ "Ciao, il tuo indirizzo email è stato salvato e verrai informato quando  "
+#~ "{product_title} è disponibile su {blogname}. Se desideri essere rimosso "
+#~ "dalla lista per favore clicca su {remove_link}"
+
+#~ msgid "here"
+#~ msgstr "qui"
+
+#~ msgid "Remove from list link"
+#~ msgstr "Elimina dal link della lista"
+
+#~ msgid "Message for successful subscription in the waiting list."
+#~ msgstr ""
+#~ "Messaggio per l'iscrizione alla lista di attesa avvenuta con successo."
+
+#~ msgid "You have been added to the waiting list of this product."
+#~ msgstr "Sei stato aggiunto alla lista di attesa di questo prodotto."
+
+#~ msgid "Removal message"
+#~ msgstr "Messaggio eliminazione"
+
+#~ msgid "Message for successful removal from the waiting list."
+#~ msgstr ""
+#~ "Messaggio per la rimozione dalla lista di attesa avvenuta con successo."
+
+#~ msgid "You have been removed from the waiting list of this product."
+#~ msgstr "Sei stato rimosso dalla lista di attesa di questo prodotto."
+
+#~ msgid "Error message"
+#~ msgstr "Messaggio di errore"
+
+#~ msgid "Error message showed when a user try to subscribe to a waiting list."
+#~ msgstr ""
+#~ "Messaggio di errore mostrato quando un utente prova ad iscriversi ad una "
+#~ "lista di attesa."
+
+#~ msgid ""
+#~ "An error has occurred or you're already register in this waiting list. "
+#~ "Please try again."
+#~ msgstr ""
+#~ "Si è verificato un errore oppure sei già registrato a questa lista di "
+#~ "attesa. Per favore riprova."
+
+#~ msgid ""
+#~ "When a status product is set back as 'In-stock', this option sends an "
+#~ "email to all the users in the waiting list."
+#~ msgstr ""
+#~ "Quando lo stato di un prodotto è reimpostato a 'Disponibile', questa "
+#~ "opzione invia un'email a tutti gli utenti della lista di attesa."
+
+#~ msgid "Mandrill Options"
+#~ msgstr "Opzioni di Mandrill"
+
+#~ msgid "Mandrill API Key"
+#~ msgstr "API Key di Mandrill"
+
+#~ msgid "Style Options"
+#~ msgstr "Opzioni di stile"
+
+#~ msgid "Top Message"
+#~ msgstr "Messaggio in alto"
+
+#~ msgid "Notify me when item is back in stock."
+#~ msgstr "Informami quando l'articolo è disponibile."
+
+#~ msgid "Font Size"
+#~ msgstr "Dimensione del tipo di carattere"
+
+#~ msgid ""
+#~ "Set the font size of the waiting list form in product pages (max value "
+#~ "99, min value 1. Size is in px)."
+#~ msgstr ""
+#~ "Imposta la dimensione del tipo di carattere del form della lista di "
+#~ "attesa nelle pagine prodotto ( valore massimo 99, valore minimo 1. La "
+#~ "dimensione è in px)."
+
+#~ msgid "Subscription Button Label"
+#~ msgstr "Etichetta del pulsante \"Iscriviti\""
+
+#~ msgid "The label of the button for subscribing in the waiting list"
+#~ msgstr "L'etichetta del pulsante per iscriversi alla lista di attesa"
+
+#~ msgid "Choose the background for the subscription button"
+#~ msgstr "Scegli lo sfondo per il pulsante \"Iscriviti\""
+
+#~ msgid "Subscription Button Hover Background"
+#~ msgstr "Sfondo del pulsante \"Iscriviti\" al passaggio del mouse"
+
+#~ msgid "Choose the hover background for the subscription button"
+#~ msgstr ""
+#~ "Scegli lo sfondo al passaggio del mouse per il pulsante \"Iscriviti\""
+
+#~ msgid "Subscription Button Text Color"
+#~ msgstr "Colore del testo del pulsante \"Iscriviti\""
+
+#~ msgid "Subscription Button Hover Text Color"
+#~ msgstr "Colore del testo del pulsante \"Iscriviti\" al passaggio del mouse"
+
+#~ msgid "Choose the hover text color for the subscription button"
+#~ msgstr ""
+#~ "Scegli il colore del testo al passaggio del mouse per il pulsante "
+#~ "\"Iscriviti\""
+
+#~ msgid "Removal Button Background"
+#~ msgstr "Sfondo del pulsante elimina"
+
+#~ msgid "Choose the background of the \"Leave\" button"
+#~ msgstr "Scegli lo sfondo del pulsante \"Abbandona\""
+
+#~ msgid "Removal Button Hover Background"
+#~ msgstr "Sfondo del pulsante elimina al passaggio del mouse"
+
+#~ msgid "Choose the hover background of the \"Leave\" button"
+#~ msgstr ""
+#~ "Scegli lo sfondo al passaggio del mouse per il  pulsante \"Abbandona\"  "
+
+#~ msgid "Choose the text color of the \"Leave\" button"
+#~ msgstr "Scegli il colore del testo del pulsante \"Abbandona\""
+
+#~ msgid "Removal Button Hover Text Color"
+#~ msgstr "Colore del testo del pulsante elimina al passaggio del mouse "
+
+#~ msgid "Choose the hover text color of the \"Leave\" button"
+#~ msgstr ""
+#~ "Scegli il colore del testo al passaggio del mouse per il pulsante "
+#~ "\"Abbandona\" "
+
+#~ msgid "Select at least one product to remove."
+#~ msgstr "Seleziona almeno un prodotto da eliminare."
+
+#~ msgid "Products removed successfully."
+#~ msgstr "Prodotti rimossi con successo."
+
+#~ msgid "Products added successfully."
+#~ msgstr "Prodotti aggiunti con successo."
+
+#~ msgid "You must select at least one product to add"
+#~ msgstr "Devi selezionare almeno un prodotto da aggiungere"
+
+#~ msgid "Exclusion list"
+#~ msgstr "Lista esclusione "
+
+#~ msgid "Products to exclude"
+#~ msgstr "Prodotti da escludere"
+
+#~ msgid "Add product exclusion"
+#~ msgstr "Aggiungi esclusione del prodotto"
+
+#~ msgid "Select at last one waitlist to remove."
+#~ msgstr "Seleziona almeno una lista di attesa da eliminare."
+
+#~ msgid "Waiting lists removed successfully."
+#~ msgstr "Liste di attesa eliminate con successo."
+
+#~ msgid "You must select at least one user."
+#~ msgstr "Devi selezionare almeno un utente."
+
+#~ msgid ""
+#~ "The plugin is currently inactive. Activate it from the admin settings to "
+#~ "send emails."
+#~ msgstr ""
+#~ "Il plugin al momento non è attivato. Per inviare le email, attivalo dalle "
+#~ "impostazioni dell'amministratore."
+
+#~ msgid "Email sent correctly!"
+#~ msgstr "Email inviata correttamente!"
+
+#~ msgid "An error occurred. Please try again."
+#~ msgstr "Si è verificato un errore. Per favore riprova."
+
+#~ msgid "All users have been added to this waiting list"
+#~ msgstr "Tutti gli utenti sono stati aggiunti a questa lista di attesa"
+
+#~ msgid "%s user removed successfully"
+#~ msgid_plural "%s users removed successfully"
+#~ msgstr[0] "%s utente rimosso con successo"
+#~ msgstr[1] "%s utenti rimossi con successo"
+
+#~ msgid "Return to waiting lists checklist"
+#~ msgstr "Ritorna all'elenco delle liste di attesa"
+
+#~ msgid "Products with a Waiting List"
+#~ msgstr "Prodotti con una lista di attesa"
+
+#~ msgid "Add user to the Waiting list"
+#~ msgstr "Aggiungi l'utente alla lista di attesa"
+
+#~ msgid "Add new user"
+#~ msgstr "Aggiungi nuovo utente"
+
+#~ msgid "My Waiting List"
+#~ msgstr "La mia lista di attesa"
+
+#~ msgid "Leave"
+#~ msgstr "Abbandona"

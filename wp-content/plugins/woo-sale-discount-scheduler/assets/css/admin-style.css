@@ -1,0 +1,73 @@
+.wsds_options_panel input[type=text].wsds_st_date, 
+.wsds_options_panel input[type=text].wsds_end_date {
+    width: 200px;	
+}
+.wsds_options_panel .wsds_options_group p input[type=text]{
+   width: auto;
+   margin: 2px 2px 2px 0;
+}
+.wsds_options_panel span{
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+.wsds_show_countdown input[type="checkbox"] {
+    float: left;
+    margin-right: 3px;
+    margin-top: 3px !important;
+}
+p.form-field.wsds_note {
+    color: red;
+}
+span.wsds_note {
+	font-size: 13px;
+}
+li.wsds-schedule-sale-tab_tab a::before {	
+    content: "\f469" !important;
+}
+.wsds_options_panel .wpass_options_group p .wsds_enhanced_select{
+	width:auto;
+}
+.wsds_widget_limit{
+	width: 45px;
+}
+.wsds_show_countdown .wsds_note {
+    margin-left: 0;
+}
+.wsds-disable-status .wsds_dependent_parent {
+    display: none;
+}
+.wsds_variation_field_group .form-field {
+    padding: 5px 20px 5px 195px;
+    position: relative;
+}
+.wsds_variation_field_group .form-field>* {
+    display: inline-block;
+    float: none;
+    width: auto !important;
+}
+.wsds_variation_field_group .form-field label {
+    float: left;
+    width: 180px;
+    padding: 0;
+    position: absolute;
+    top: 8px;
+    left: 0;
+}
+
+/** Admin menu page CSS */
+.wsds-field-box {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.wsds-field-box .wsds-title {
+  width: 13.33%;
+  margin-top: -20px;
+}
+.wsds-field-box input {
+    width: 400px;
+}
+.wsds-label p:not(:first-child) {
+    margin: 5px 0 5px 0;
+}

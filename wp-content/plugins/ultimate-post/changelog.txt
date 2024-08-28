@@ -1,0 +1,929 @@
+== Changelog ==
+= 2.9.9 – 14 June 2023 =
+* Fix: Template Kits Alignment issue
+* Fix: Category Color Override issue
+
+= 2.9.8 – 11 June 2023 =
+* Fix: Ajax pagination issue on scrolling
+* Fix: Image full width issue in Archive Title block
+* Fix: Issue with View count in Advanced Post Meta block
+* Fix: Issue with Comment count in Post Comment Count block
+* Fix: Compatibility issue with PublishPress Revisions plugin
+* Fix: Image height issue with anchor tag in Image block in Twenty Twenty Two theme
+* Fix: Video height and Image border radius issue in Post Featured Image/Video block
+* Update: New unit rem added
+* Update: Updated Google Fonts
+* Update: Memory optimization improved
+* Update: Dynamic caption in Featured Image/Video block
+* Update: Premade Patterns added on toolbar for Button and List - PostX block
+
+= 2.9.7 – 25 May 2023 =
+* New: List Block Feature
+* Fix: Default font weight issue in typography
+* Fix: Post Content Block Css Issue in Builder Template
+
+= 2.9.6 – 22 May 2023 =
+* Update: Postx Banner Updated
+* Update: Feature Image/Video Support in Custom Post Type
+* Fix: Post Slider 1 Mobile Responsive Issue 
+* Fix: Single Post Builder Post Repetition Issue
+ 
+= 2.9.5 – 18 May 2023 =
+* Fix: Php function parameter deprecated issues fixed
+
+= 2.9.4 – 17 May 2023 =
+* New: Button Block Feature
+* New: Dynamic icon Control Option 
+* Fix: Row Column and Wrapper Block compatibility issue
+* Fix: Slider 1,2 Arrow icon background color issue fixed
+* Fix: Unique content not working properly on Archive Builder
+
+= 2.9.3 – 10 May 2023 =
+* New: Custom Font Addon
+
+= 2.9.2 – 17 April 2023 =
+* Update: Dashboard Banner Updated
+
+= 2.9.1 – 5 April 2023 =
+* Fix: Row Column Issue Fixed
+
+= 2.9.0 – 3 April 2023 =
+* Fix: Wordpress 6.2 Compatibility Issue
+* Fix: Favicon issue with Twenty Twenty Three theme
+* Fix: Issue with saving attributes in the Row Block
+* Fix: Table of Contents block compatibility issue with default group block
+* Fix: Removed meta value number option from the query builder in Archive Builder
+* Fix: Advanced navigation block of Essential Blocks Plugin CSS broken issue
+* Fix: CSS Missing Issue in  Newspaper theme Widget Area
+* Fix: has_post_thumbnail function removed from Image Conditions
+* Update: Builder Template Copy Option Added
+* Update: Taxonomy Block Siblings Visible Option
+* Update: rem CSS unit added to Typography Control
+* Update: Image alt attribute value updated by dynamic image attribute value.
+* Update: A search field has been added to the taxonomy value select box
+* Update: Text control for No results found added in every block
+* Update: Option added to the Post Social Share block to disable sticky position when the footer appears
+* Update: New Upgraded Look for all Post List Block
+* Update: Large Post and small Post Excerpt Control Separated in Post List Block
+
+= 2.8.9 – 16 March 2023 =
+* Fix: Unique content not working properly on ajax pagination
+* Fix: Filter and Pagination functionality issues
+* Fix: Pagination not functioning properly in Kadence element
+* Fix: Reusable block not functioning properly
+* Fix: Fixed width issue with images in Post Grid 1 Block
+* Fix: Missing ID issue in Post Slider 1 and Post Slider 2 Block
+* Fix: ALT attribute of image not functioning properly in Post Featured Image Block
+* Fix: Table of Content Block not working properly in Container Block of Spectra Plugin
+* Fix: String translations issue
+
+= 2.8.8 – 1 March 2023 =
+* New: Block for Row Column feature
+* Fix: Issue with deprecated Elementor hook
+* Fix: Compatibility issue with Gutenberg Plugin
+* Fix: Pagination not functioning properly in the widget area
+* Fix: Image resolution issue in Author Block
+* Fix: Removed default value for the number of posts in Tablet and Mobile view
+
+= 2.8.7 – 13 February 2023 =
+* Fix: Field name issue in Archive Title Block
+
+= 2.8.6 – 24 January 2023 =
+* Fix: Broken design of sticky header in Sydney theme
+* Fix: Broken design of typography control on block editor in Sydney theme
+* Fix: Broken design of non-ajax pagination
+* Update: Functionality improvement of Front Page builder
+* Update: New control added for showing the maximum number of category
+* Update: Updated design for Templatekits
+* Update: Premade design importing system for singular builder added on editor
+
+= 2.8.5 – 8 January 2023 =
+* Fix: Feature Video Issue Fixed
+
+= 2.8.4 – 8 January 2023 =
+* New: Post Dynamic Fallback Image Feature
+* New: Post Feature Image/Video Block in Post Builder 
+* New: Post Image Size Control Options
+* New: Support Post Feature Video Modal Within Post Block
+* New: Tag option added for Title in Taxonomy Block
+* New: Large image size option added in Taxonomy Block
+* New: Four filter hook postx_loop_author_image_only, postx_loop_author_image, postx_loop_author_icon and postx_loop_author_by added for showcasing extra author
+* New: Filter hook postx_loop_maximum_taxonomy added for maximum number of Category
+* Update: Responsive device preview added
+* Fix: Title animation color issue in Archive Title Block
+* Fix: Taxonomy query is not working properly when query type is selected as Child Of in Taxonomy   Block
+* Fix: Duplicate Separator show toggle in Post Grid Blocks
+* Fix: Blocks drag and drop issue in Editor
+* Fix: Quick query isn't working properly in widget section
+
+= 2.8.3 – 28 December 2022 =
+* New: Google Font disable option added
+* New: Search option added on premade patterns
+* Fix: Reusable Block not working properly
+* Fix: External Comment Block not working inside our site builder
+* Fix: Saved Template issues with King Composer page builder
+* Fix: Parent category is not visible in Post Breadcrumb Block
+* Fix: Post meta hover color not working
+* Fix: Ajax pagination issue in site builder
+* Fix: Kadence element css issue
+* Fix: Duplicate prefix show toggle in Archive Title Block
+* Fix: Missing typography in Post List 3 Block
+* Fix: Broken unit design on hover effect
+* Fix: Broken design of Get Pro and Copy Pattern button
+* Fix: Premade Pattern icon and text overlay issue
+* Update: Update notice design
+
+= 2.8.2 – 11 December 2022 =
+* New: Post Grid 5 Layout 3 Release
+* New: Post Grid 7 Layout 4 Release
+* Fix: PostX Builder Template And PostX Post Template fullwidth Theme Compatibility Issue
+
+= 2.8.1 – 7 December 2022 =
+* New: Dashboard setup wizard
+* Fix: Saved Template issues with Elementor
+* Fix: Category, Authors, Tags, Date and Search Result template list doesn't appear in Site Builder
+* Fix: Layout issue in Post Grid 5 Block
+* Fix: News Ticker Block issue
+* Fix: Attribute error issue in Social Share Block
+* Fix: Broken animation in Post List 1 Block
+* Fix: Broken slider design in Post Slider 1 Block using shortcode
+* Update: Viewport Unit added in Post Slider 1
+
+= 2.8.0 – 24 November 2022 =
+* Fix: Post List #3 Layout 4 And 5 Full Width And Inner Content Style Issue
+* Fix: Post List #2 And Post List #4 Image Width Issue
+* Fix: Post Comment Block Spelling Issue
+* Fix: PostX Template Full Width Issue
+
+= 2.7.9 – 16 November 2022 =
+* New: Post Block Post Slider #2 With Dynamic Layout
+
+= 2.7.8 – 10 November 2022 =
+* Fix: str_contains Syntax Error in PHP Older Version Issue
+
+= 2.7.7 – 2 November 2022 =
+* Fix: Author Box Blocks Issue.
+* Fix: Upgrade Plugins Notice Issue.
+* Update: WordPress 6.1 Compatibility Check.
+
+= 2.7.6 – 23 OCTOBER 2022 =
+* Fix: Function Commenting Issue.
+* Fix: Notice Banner Issue.
+* Fix: PHP Warning: Attempt to read property “ID” Issue
+
+= 2.7.5 – 17 OCTOBER 2022 =
+* New: Copy Pattern Option Added in Template Kit.
+* Fix: PostX Template Notice in Block Based Theme Issue.
+* Fix: Unit and Responsive Device Open on Hover Issue.
+* Fix: Sort by View Issue.
+* Fix: Archive Title Block Improvement.
+* Fix: Child Spelling Issue.
+
+= 2.7.4 – 28 SEPTEMBER 2022 =
+* Fix: PostX and ProductX Compatibility Issue.
+* Fix: Advanced Post Meta PHP Version 7.2 Compatibility Issue.
+* Fix: Post Social Share PHP Version 7.2 Compatibility Issue.
+* Fix: Archive Template PHP Version 5.6 Compatibility Issue.
+
+= 2.7.3 – 27 SEPTEMBER 2022 =
+* Fix: Post Comment Blocks Syntax Error Issue
+* Fix: Category Filter Backend Post Show Issue.
+* Fix: Set Default value Archive Builder Query Issue.
+* Fix: Alignment Field Control Issue.
+* Fix: PostX Global Settings Multiple Button Showing Issue.
+* Fix: Empty Singular Template Showing Issue
+
+= 2.7.2 – 26 SEPTEMBER 2022 =
+* New: WCAG 2.0 Support Add.
+* New: WordPress Default Date Format Option Added.
+* New: Private Post Status Support Add.
+* New: Image Slider Image Disable Option Added.
+* Fix: News Ticker Marquee Speed Control Issue.
+* Fix: Multiple Blocks Shows in Preference for Multiple Shortcode Use Issue.
+* Fix: Social Share Sticky Position Issue.
+* Fix: Order by: Menu Order Naming Issue.
+* Fix: Taxonomy Blocks Unlimited Number of Posts Issue.
+* Fix: Taxonomy Block Title Animation Color Issue.
+* Fix: Builders Create Singular Template Hierarchy Issue.
+* Fix: TwentyTwentyTwo Themes Image Block Height Issue.
+* Fix: Advance Post Meta Extra Margin Issue.
+* Fix: Mobile breakpoint default setting change to 767px Issue.
+* Fix: Post Grid 7 Pagination Margin Duplicate Issue.
+* Fix: Post Module Broken if Image not Found Issue.
+* Fix: Post Grid 1 Meta Alignment Issue.
+* Fix: Post Module 1 Box-Shadow Issue.
+* Fix: Setting URL Not Working In Plugin Page.
+* Update: Color Code Option Added in Settings Color Field.
+
+
+= 2.7.1 – 19 SEPTEMBER 2022 =
+* Fix: PHP closing tag issue
+
+= 2.7.0 – 19 SEPTEMBER 2022 =
+* New: Dynamic Site Builder (Single, Archive, Category, Tag, Date, Search)
+* New: New Block Archive Title Added
+* New: New Block Post Title Added
+* New: New Block Post Content Added
+* New: New Block Post Feature Image Added
+* New: New Block Post Breadcrumb Added
+* New: New Block Post Tag Added
+* New: New Block Post Category Added
+* New: New Block Post Next Previous Added
+* New: New Block Post Excerpt Added
+* New: New Block Post Author Box Added
+* New: New Block Post Comments Added
+* New: New Block Post View Count Added
+* New: New Block Post Reading Added
+* New: New Block Post Comment Count Added
+* New: New Block Post Author Meta Added
+* New: New Block Post Meta Added
+* New: New Block Post Social Share Added 
+* New: New Block Advance Post Meta Added
+
+= 2.6.6 – 28 JULY 2022 =
+* New: New Toolbar Option Query, Layout, Design Library Added
+* New: Block Design Library Popup Added In Setting Panel
+* New: Live Preview Link, Documentation Link Added In Setting Panel
+* Fix: Taxonomy and Category Enable Disable Issue
+* Fix: Upgrade Button and Dashboard Topbar Changed
+* Fix: Remove Image Dependency From Image Field
+* Fix: Post List 3 Content Background Color Issue
+
+= 2.6.5 – 21 JULY 2022 =
+* Fix: Heading Style 3 Border Issue
+* Fix: Setting Panel Space Issue with Otter Plugins
+* Fix: Post Block Column/Row/Separator Space Improved
+* Fix: Table Of Contents Compatibility Issue With Greenshift Plugin
+* Fix: Heading Block Title Html Entity Issue
+* Fix: Changelog Notification Show Aside From Plugin Status.
+* Fix: Some Pro Features From Post Grid (5,6,7). Post Module (1,2). Post list 4 are Now Converted To Free.
+
+= 2.6.4 – 06 JULY 2022 =
+* Fix: Block Disable Issue
+* Fix: Post Filter All Click Issue
+
+= 2.6.3 – 05 JULY 2022 =
+* New: Post List Four & Post Module Two Large Title Color Issue
+* New: Taxonomy Style One Content Title Alignment Field Added
+* Fix: Image Block Image Scale Field Error Fix
+* Fix: Field Depend Condition Value Issue
+* Fix: Post Module One & Module Two Image Style Control Section UX Improved
+* Fix: Post Module Two Image Radius Issue
+* Fix: Post Module Two Box Shadow Issue
+* Fix: PostX Template Container Width Issue Fix
+* Fix: Block Disable Option Compatibility Issue With Existing Block 
+* Fix: Dashboard Topbar Background And Bell Color Updated
+* Fix: Query By Random Post Not working In Builder
+* Fix: Taxonomy Default Specific Background Color Issue
+* Fix: When Pro Plugin Active, Upgrade Button Will Be Remove Issue 
+* Fix: Heading Style 7 left shape Color Issue
+* Fix: Tutorial Page Video Button Will be Remove Issue
+
+= 2.6.2 – 28 JUNE 2022 =
+* Fix: Image Addons Selector Issue Fixed
+* Update: Dashboard And Dashboard Menu System Updated
+
+= 2.6.1 – 26 JUNE 2022 
+* New: News Ticker Block RTL Support
+* New: Custom Taxonomy View Instead of Category Option Added
+* New: Up Down Control Option Requested Feature in Specific & Custom Posts 
+* New: Improve Post in Option for User Better Understanding
+* New: Improve Content Group Field for User Better Understanding
+* New: Cookies Storage Settings in Option Panel
+* New: Table of Contents Regenerate Anchor Button Added
+* Fix: Warning Issue from Web Server ( http_user_agent ) 
+* Fix: News Ticker Icon Broken Issue
+* Fix: Random Post Query Setting Not Working in Builder Issue
+* Fix: FileBird Plugin Compatibility Issue
+* Fix: Post Grid 1 Library Style 15 Typography Issue 
+* Fix: Typography Uppercase Style Not Working Issue
+* Fix: Unit Value (px/%/em) not Working in Responsive Device Issue
+* Fix: Post Title Color and Hover Color Responsive Preview Issue
+* Fix: CSS Cashing Issue in File System
+* Fix: Image Block Radius Issue and Caption Style Not Working Issue.
+* Fix: News Ticker Override Issue Sticky top Position
+* Fix: Quick Query in Builder Related by Category/Tag will Display on top for Singe Post.
+
+= 2.6.0 – 19 JUNE 2022 =
+* New: Dashboard And Settings Page New Design
+* Fix: Progressbar Alignment in Elementor Issue
+* Fix: Mobile Responsive Filter Dropdown Issue
+
+= 2.5.9 – 6 JUNE 2022 =
+* New: Heading New Style Added 
+* Fix: News Ticker Margin Issue
+* Fix: Post Grid Three Layout Five Loadmore Issue
+* Fix: Special Charecter Issue on Title Dropdown
+* Fix: Post List 4 Loadmore Issue
+* Fix: Wrapper Blocks Z-Index Issue
+
+= 2.5.8 – 31 MAY 2022 =
+* Fix: Filter Dropdown Mobile View Not Hide After Click Outside Issue
+* Fix: News Ticker Block Title Extra Top Margin Removed
+* Fix: News Ticker Block Override in Dashboard bar when admin bar active.
+* Fix: Sanitize and Escaping Plugin Issue
+* Fix: Global Settings Editor Width Issue
+* Fix: Specific Post Compatibility Issue
+* Fix: Gradient Field Type Compatibility Issue
+* Fix: Editor Leave Without Edit Notification Issue
+* Fix: WordPress 6.0 Compatibility Check
+
+= 2.5.7 – 24 MAY 2022 =
+* New: Search Popular Post by ID Feature Added
+* Fix: Table of Contents Extra Padding and Margin from Theme Issue
+* Fix: Gutenberg Widget Display Posts Issue
+* Fix: Gutenberg Image Blocks Unit Issue
+* Fix: Taxonomy Query Issue
+* Fix: Feature Slider Navigation Icon Issue
+* Update: Typography Field Type Theme Default Issue
+
+= 2.5.6 – 20 MAY 2022 =
+Update: Plugin Title Keyword Stuffing issue
+
+= 2.5.5 - 18 May 2022 =
+* Fix: Include Posts Compatibility Broken in Last Update Issue
+* Fix: Specific Post & Custom Post Remove Button Issue
+* Fix: NewsTicker Margin & Padding Fields Issue
+* Fix: Specific Post & Custom Post Search Issue
+
+= 2.5.4 - 16 May 2022 =
+* New: Custom Selection Post from Multiple Post Type in Query
+* New: Specific Post Selection in Query
+* New: Number of Posts for Desktop, Tablet and Mobile Separately
+* New: Custom Terms Selection in Query
+* New: Allow Sticky Posts Option in Query
+* New: Unique Posts in Query
+* New: Availability of Number of Post (In Mobile)
+* New: Specific Author Search in Query
+* New: Exclude Post Search in Query
+* New: Exclude Term in Query
+* New: Exclude Author in Query
+* New: Missing Fonts (500+ New Font Added)
+* New: Archive Template Sidebar Feature
+* New: Multiple Posts at a Time in Post Slider 1
+* New: Author Link Disable Feature
+* New: Typography Auto Transform Disable Option Added
+* Fix: Post Module Small Image Border Radius Issue
+* Update: Translation String Updated
+
+= 2.5.3 - 20 April 2022 =
+* New: Filter by Default Tab Highlight Feature Added
+* Fix: News Ticker Typewriter Effect Broken Issue
+* Fix: Filter Height CSS Issue
+* Fix: Active Class Override Issue
+* Fix: Saved Template Color Issue
+* Fix: Post List #1 Filter Color Issue
+* Fix: Shortcode Save Issue
+* Fix: Post Filter Icon Color, Padding & Background Color Issue
+
+= 2.5.2 - 06 April 2022 =
+* New: News Ticker Blocks Added
+* Fix: Post list 3 new layout design added
+* Fix: Post list 3 image scale added
+* Fix: Post list 3 stack on mobile issue fix
+* Fix: Post list 1 image scale added
+* Fix: Post list 2 image scale added
+* Fix: Post list 4 image scale added
+* Fix: Post grid 1 image scale added
+
+= 2.5.1 - 06 April 2022 =
+* Update: ProductX compatibility added
+
+= 2.5.0 - 06 April 2022 =
+* New: Editor Speed Optimization
+* New: PostX Global Style Added
+* New: Change Appearance of all the Field Type
+* New: Global Theme Color Settings Added
+* New: Global Editor Width Option Change
+* New: Device Breakpoint Change Option Added
+* New: Group Button Field Added
+* Update: Field Unit is Reconfigured
+* Update: Devive Field is Reconfigured
+* Update: Optimize Settings for the Editor
+* Update: Table of Contents Issue Fixed
+
+
+= 2.4.26 - 21 Mar 2022 =
+* Fix: Dashboard Notice issue
+
+= 2.4.25 - 20 Mar 2022 =
+* Fix: Heading Blocks Default padding issue
+* Fix: Taxonomy Blocks Layout5 issue
+* Fix: Post List 3 mobile issue
+* Fix: Table of Contents Special Characters and numbers Issue
+* Fix: German Date Format 
+
+= 2.4.24 - 10 Mar 2022 =
+* New: German and Switzerland Date Format Added 
+* Fix: DIVI Builder Shortcode Preview Issue
+* Fix: Remove Sticky Post from Latest Posts
+* Fix: Pagination Duplicate Post Issue
+* Fix: Table of Contents Anchor Link Issue
+* Fix: Table of Contents Compatibility Issue
+* Fix: License Page Logo Broken Issue
+* Fix: Reusable Blocks Font Family Issue
+* Fix: Elementor Builder Shortcode Preview Issue
+* Fix: Live Preview Broken Frontend Issue
+* Fix: Builder Include Post by ID Issue
+
+= 2.4.23 - 27 Feb 2022 =
+* Fix: Notice Disable Issue
+
+= 2.4.22 - 20 Feb 2022 =
+* New: German Date Format Added
+* New: Filter Mobile Dropdown Menu Disable Option Added
+* New: All Query Settings is Enable in Builder
+* Fix: Blocks in Widget Not Working Issue
+* Fix: Multiple Category Spacing Issue
+
+= 2.4.21 - 8 Feb 2022 =
+* New: Meta Author By Text Change
+* New: Date and Time Format for Meta Elements
+* Fix: Filter Responsive Mobile Menu Text Issue
+* Fix: Gutenberg Device Preview Broken Issue
+* Fix: Table of Contents Spelling Mistake Issue
+* Fix: Post List #3 Images Issue
+* Fix: post List 2,3,4 Mobile Responsive Setting Issue
+* Fix: Post Grid #1 Advanced Style Layout Image Issue
+* Fix: Some Text Domain Name Issue
+* Fix: Show Full Except Issue
+* Fix: Block Library Import in Archive builder Issue
+
+= 2.4.20 - 25 January 2022 =
+* Fix: Color Field Design Issue
+* Update: "Twenty Twenty-Two" Theme Compatibility Issue 
+* Update: WordPress 5.9 Core Compatibility Issue
+
+= 2.4.19 - 19 January 2021 =
+* Fix: Post Grid 1 Big Image Size & Small Image Size Issue
+* Fix: DIVI Theme Shortcode Display Issue
+* Fix: Small Feature Image Radius Issue
+* Fix: Post List 2, Post List 3, Post List 4 Responsive Issue
+* Fix: Post Grid 4, Post Grid 5, Post Grid 6, Post Grid 7 Responsive Issue
+* Fix: Filter Dropdown Responsive Issue
+* Fix: Sub-Category Separator Dropdown Issue
+* Fix: Offset in Pagination Posts Page Count Issue
+* Fix: Load more Button and Other Accessibility Issue
+* Fix: Builder Addon Not Working on Multisite Issue
+* Fix: Load more Design Broken in Safari Browser
+
+= 2.4.18 - 27 December 2021 =
+* New: Post List #1 Four Different Layouts Added
+* New: Post List #1 Three Different Styles Added
+* New: Mobile Dropdown Title Field Added in Filter
+* New: Table of Contents Fetch Data from PostX Heading and Inner Column
+* Fix: Banner Removed from Dashboard
+* Fix: Shortcode gutenberg_post_blocks Name Changed to postx_template
+* Fix: Background Color Popup Issue 
+* Fix: WooCommerce Shop Page Conflict Issue
+* Update: Related Post Query Specify for Single Page
+* Update: "Table of Contents" Name Changed to "Table of Contents"
+
+= 2.4.17 - 15 December 2021 =
+* Update: Notice Condition Updated
+* Fix: Taxonomy Condition Issue
+* Fix: PHP Error Notice Issue
+
+= 2.4.16 - 18 November 2021 =
+* New: 4 grid style add for Post Grid #1
+* Fix: Post Grid 1 Layout Issue
+* Fix: Post Sliders Arrow RTL Issue
+* Fix: Paginations Load More Animation Alignment Issue
+* Update: PostX Templates Comment Option
+
+= 2.4.15 - 09 November 2021 =
+* New: Reading Time Meta Translate 
+* Fix: Next Previous Pagination Issue
+* Fix: Image Size Not Working Issue
+
+= 2.4.14 - 27 October 2021 =
+* New: Gutenberg Blocks Support in Widget
+* New: Preset Color Added in Color Blocks
+* Fix: Initialization Notice Issue
+* Fix: Shortcode Support in Widget Area
+* Fix: Filtering in Backend Issue
+* Fix: Table of Contents Anchors SEO Issue
+* Fix: Heading Style 7 Issue
+* Update: Posts Per Page Limit Increased
+* Update: Srcset Added in Every Image
+
+= 2.4.13 -  07 October 2021 =
+* Fix: Fix: Related Post Query Issue
+
+= 2.4.12 -  21 September 2021 =
+* New: Speed Optimization in New Version
+* New: Stackable Support Added in Table Of Contents
+* New: Kadence Blocks Support Added in Table Of Contents
+* New: Ultimate Addons for Gutenberg Support Added in Table Of Contents
+* New: PostX Heading Support Added in Table Of Contents
+* Update: Post Slider Compatibility with FSE
+* Update: Rank Math not Detecting the Table of Contents
+* Update: Language File of the Plugin
+* Fix: SEO Meta Addon Issue
+* Fix: Metadata in_array Check Issue
+* Fix: Saved Template Addons Shortcode Issue
+* Fix: Gutenberg Editors Blocks Requests Issue
+
+= 2.4.11 -  01 September 2021 =
+* New: Table of Contents Blocks Add
+
+= 2.4.10 -  23 August 2021 =
+* Fix: Addon Enable Disable Options Security Issue
+* Fix: Private Posts Security Issue
+* Fix: Password Protected Posts Security Issue
+
+= 2.4.9 -  19 August 2021 =
+* New: Taxonomy Query Relation AND and OR Added
+* New: Filter added for disable cookies
+* Fix: Elementor Addons Style Issue Fix
+
+= 2.4.8 -  12 August 2021 =
+* Fix: Reusable blocks
+* Fix: Post Slider RTL issue
+* Fix: Post Slider Backend editor issue
+
+= 2.4.7 -  26 July 2021 =
+* Update: Check all compatibility issue with WordPress 5.8
+* Fix: Excerpt size issue
+* Fix: Default Taxonomy color issue
+* Fix: Deprecated: block_categories issue
+
+= 2.4.6 -  06 July 2021 =
+* New: SEOPress Meta Addon Add
+* New: Squirrly Meta Addon Add
+* New: Title Background Color Add
+* New: Query by Author ID Add
+* Fix: Image ALT attributes Issue
+* Fix: Blocks Settings Overlap Issue
+* Fix: Post List Box-shadow issue
+* Fix: Post List 2 and Post List 3 Image Height Width Issue
+
+= 2.4.5 -  29 June 2021 =
+* New: Post Title Length Settings
+* New: Four Pre-made Design added in Slider
+
+= 2.4.4 -  27 June 2021 =
+* New: Library Synchronize System Add
+* Fix: Taxonomy Blocks Border Radius Issue
+* Fix: Heading Image Issue
+
+= 2.4.3 -  19 June 2021 =
+* Fix: Quick Post Slider issue 
+
+= 2.4.2 -  17 June 2021 =
+* New: Exclude current post automatic from query
+* New: Blocks enable disable option add
+* Fix: Post Module #1 & Post Module #2 blank image issue
+* Fix: Unnecessary image flip option removed
+* Fix: Grid height issue
+* Fix: Post List #2 empty image spacing issue 
+* Fix: Modal popup content scroll issue
+* Fix: Post Grid 5&6 Responsive issue
+* Update: View Count issue
+* Update: RTL Support Improved
+* Update: All blocks icon & layout icon convert to image
+
+= 2.4.1 -  10 June 2021 =
+* Fix: Post Grid #1 pagination issue
+
+= 2.4.0 - 08 June 2021 =
+* New: Archive Builder (Pro)
+* Fix: Post Grid #5 & Post Grid #6 fullscreen issue
+* Fix: Version Compatibility PHP Warning issue
+* Fix: Setting Change disable Addon issue
+* Update: Menu Name Change 
+* Update: Documentation URL change
+
+= 2.3.1 - 31 May 2021 =
+* Update: Rebranding PostX Plugin
+
+= 2.3.0 - 07 May 2021 =
+* New: Post List 3 Blocks Column Option Added
+* New: Post List 3 Blocks Column Pag Option Added
+* Fix: Post List 1-4 Pagination Color and Hover Color on Gutenberg editor issue
+* Fix: Post Grid 1-7 Pagination Color and Hover Color on Gutenberg editor issue
+* Fix: Post Slider Title Color on Gutenberg editor issue
+
+= 2.2.9 - 28 April 2021 =
+* Fix: preview CSS broken issue
+* Fix: Settings radio button uncheck issue
+* Fix: Pagination focus CSS issue
+* Fix: Multi color issue & color class removed
+* Fix: Loadmore style issue
+* Fix: Empty taxonomy not showing issue
+
+= 2.2.7 - 12 April 2021 =
+* New: PostX compatible with WPML
+* New: PostX compatible with Loco
+* Fix: Some translation issue
+* Fix: Post Grid Read More Issue 
+* Update: Update all JS Translation String
+
+= 2.2.6 - 06 April 2021 =
+* New: Taxonomy Blocks Added
+* New: Pagination Next Previous Text
+* New: HTML Tag Settings Add in Section
+* Update: Excerpt Limit 
+* Fix: Some Translation Issue
+
+= 2.2.5 - 02 March 2021 =
+* Fix: Gutenberg Post Blocks Template Issue
+* Update: Loading Style in Backend Editor
+* Fix: Carousel Spelling Issue
+
+= 2.2.4 - 12 February 2021 =
+* New: Disable Image Size Added
+* New: Div and Span Added in Title
+* New: Order By Modified Date
+* New: Category Class Added
+* Update: Default Addon Enable Settings Change
+* Update: Performance Improved
+* Fix: No Thanks Button Issue
+* Fix: CSS Broken in Frontend Issue
+* Fix: Post Grid #4 Filter Issue
+* Fix: Pagination Bug on Click Issue
+* Fix: Pagination Active Hover Color Issue
+
+= 2.2.3 - 13 January 2021 =
+* New: Theme Integration System Added
+* Fix: CSS Loading Issue
+* Fix: All Known Issue
+
+= 2.2.2 - 02 January 2021 =
+* Update: Plugin Name Rebranding
+
+= 2.2.1 - 23 December 2020 =
+* Update: Query Tag Compatiblity Added
+
+= 2.2.0 - 22 December 2020 =
+* New: Custom Taxonomy Query Support Added
+* New: Custom Taxonomy Query Filter Support Added
+* Fix: Dashboard background color issue
+* Fix: Backend Editor Category color issue
+* Fix: Pagination Background Hover color issue
+* Fix: Slider JS Warning issue
+* Fix: Slider Full Width issue
+
+= 2.1.5 - 16 December 2020 =
+* Fix: Import Block Library Button Issue
+
+= 2.1.4 - 12 December 2020 =
+* Fix: WordPress 5.6 Warning register_rest_route Issue
+* Fix: Settings Save Issue
+* Fix: CSS Minified to Single File
+* Fix: JS Minified to Single File 
+* Fix: Filter Dropdown Issue
+* Fix: Navigation Arrow Issue
+* Update: Dashicon Removed From Frontend
+* Fix: Homepage Pagination not Worked without AJAX Issue
+* New: Gutenberg Post Blocks Compatible With Twenty Twenty One Theme
+
+= 2.1.3 - 05 December 2020 =
+* Update: Removed Banner From Dashboard
+* Fix: All Known Issue
+
+= 2.1.2 - 26 November 2020 =
+* Fix: Import Button Issue
+* Fix: String Translation Issue
+
+= 2.1.1 - 25 November 2020 =
+* New: Plugins Speed Optimize
+* New: New Layout Packs News3 for News Website
+* New: Modified Date Added Inside Meta
+* New: Default Font Weight 600,800,900 Added
+* Fix: Unit on Responsive Devices Issue
+* Fix: Broken Link Issue
+* Fix: Wrapper Addons Hide Device Issue
+* Fix: Filter Dropdown Responsive Issue
+* Fix: Text Spelling Issue
+* Fix: Post Grid 6 Responsive Issue
+* Fix: Backend Editor Error Issue
+* Fix: License Field Type Changed to Password
+
+= 2.1.0 - 27 October 2020 =
+* New: Equal Height Option in Post Grid #1 Added
+* New: Post Link Open in New Tab Option Added
+* New: Gutenberg Post Blocks Compatible With GeneratePress Theme
+* New: Image Select options in Post Grid #2 Added
+* Update: customClass ultp-pro-field
+* Fix: Gutenberg Reusable Blocks Issue fixed
+* Fix: Elementor CSS loading Issue fixed
+* Fix: All known Issue Fixed
+
+= 2.0.3 - 13 October 2020 =
+* New: Introducing Gutenberg Blocks for Elementor Plugin
+* New: Saved template Addons Added
+* New: News 3 Starter Packs Added
+* New: Support Align (center,wide,full) for all Blocks
+* New: Hide on Different Responsive Device Added
+* New: Typography Font Family Search Added
+* New: Gutenberg Post Blocks Integration Within Shortcode
+* New: Gutenberg Post Blocks Compatible With Go Theme
+* New: Gutenberg Post Blocks Compatible With Hestia Theme
+* New: Gutenberg Post Blocks Compatible With Kadence Theme
+* New: Block Library Import Popup Preloader Added
+* Update: Heading Blocks Dropdown
+* Fix: Post Module 1 Issue
+* Fix: Post Module 2 Issue
+* Fix: Post Grid 1 Column Responsive Issue
+* Fix: Post ID Duplicate Issue
+* Fix: Dismiss Button Issue
+
+= 2.0.2 - 30 September 2020 =
+* New: Meta Style 2 Added
+* New: Magazine Starter Packs Added
+* New: Preloader Color Added
+* New: Gutenberg Editor Container Width Added
+* New: Gutenberg Post Blocks Compatible With astra Theme
+* New: Gutenberg Post Blocks Compatible With neve Theme
+* New: Gutenberg Post Blocks Compatible With blocksy Theme
+* New: Gutenberg Post Blocks Compatible With sydney Theme
+* New: Gutenberg Post Blocks Compatible With twentytwenty Theme
+* Update: Premade Design Library Improved
+* Update: Compatible With Gutenberg Plugin Version 9.0
+* Fix: Heading Button Color Issue
+* Fix: Post Tags Filter Issue
+* Fix: WordPress Lazy Load Issue
+* Fix: Install Plugin Error Issue
+* Fix: Pagination Offset Issue
+* Fix: Order By Include Issue
+
+
+= 2.0.1 - 23 September 2020 =
+* New: One ID / Class to identify the loop Added
+* New: Post List 2 Blocks Spacing Added
+* Fix: Heading Blocks Issue
+* Fix: Post List 2 Blocks Image Height Issue
+* Fix: Reading Time Issue
+* Fix: display All Post Issue
+* Fix: Sticky Post Issue
+
+= 2.0.0 - 22 September 2020 =
+* New: Post List #4 Blocks Added
+* New: Post Grid #5 Blocks Added
+* New: Post Grid #6 Blocks Added
+* New: Post Grid #7 Blocks Added
+* New: Post Module #1 Blocks Added
+* New: Post Module #2 Blocks Added
+* New: Block library Readymade Block Design Added
+* New: New Readymade Design Added
+* New: New Starter Kit Design Added
+* New: Overview, Pro Features, Contact Us, License and Upgrade Page Added
+* New: Cache enable for blocks library
+* New: Image Lazy Load Added
+* Update: Settings Panel Improved
+* Update: Directory Content View Improved
+* Fix: Dynamic Post Slider Image Size Issue
+* Fix: All known Issue Fixed
+
+= 1.2.6 - 16 August 2020 =
+* Fix: Image Clickable Issue Fixed
+
+= 1.2.5 - 02 August 2020 =
+* Fix: Post List 2 Responsive Issue Fixed
+
+= 1.2.4 - 19 July 2020 =
+* Update: Design improved for plugin dashboard landing page
+
+= 1.2.3 - 16 July 2020 =
+* Fix: CSS added via file system Issue Fixed
+* Fix: Hide Button Issue Fixed
+* Fix: Post List 2  Blocks Meta Position Issue Fixed
+* Fix: Dynamic Post Slider 1 Blocks Meta Position Issue Fixed
+* Fix: Post Grid 3 Blocks Meta Position Issue Fixed
+* Fix: Post Grid 4 Blocks Meta Position Issue Fixed
+
+= 1.2.2 - 02 July 2020 =
+* New: Multisite Support Added
+* Fix: Reading Time Issue Fixed
+* Known CSS Issue Fixed
+
+= 1.2.1 - 17 June 2020 =
+* Fix: Loadmore Button Position Resetting Issue
+* Fix: Known CSS Issue Fixed
+
+= 1.2.0 - 11 June 2020 =
+* Fix: Title Tag CSS Issue Fixed
+* Fix: Dropdown Field Type Open Issue Fixed
+* Fix: Excerpt CSS Issue Fixed
+
+= 1.1.9 - 05 June 2020 =
+* New: All Sections Title Tag P and SPAN Issue
+* Fix: Undefined Index in Options.php Page
+
+= 1.1.8 - 01 June 2020 =
+* New: Import Layout Enable/Disable Button Added
+* Fix: Excerpt Duplicate Issue in Product Grid 2
+* Fix: Change name "Ultimate-post" to "Gutenberg Post Blocks"
+* Fix: Pagination Not Working for some Criteria
+* Fix: CSS links HTTPS mixed content view issue fixed
+* Fix: Post Filter Not working for the specific condition
+* Update: Add span and p in the title tag lists
+* Update: Option Panel Text has been Updated
+
+= 1.1.7 - 28 May 2020 =
+* New: Load More Text Added
+* New: Include and Exclude Help Text Added
+* Fix: AJAX Pagination Viewport Issue
+* Update: Performance Improved
+
+= 1.1.6 - 25 May 2020 =
+* New: Post Filter All Text Change Option
+* New: Query Order by Meta Value Added
+* New: Layout Click is now not Query Reset
+* New: Show Full Excerpt Added in Every Blocks
+* Fix: Post List #1 Bug Fix and it is Now Live
+* Fix: Post Filter is now not Showing Draft Popular Posts
+* Fix: Post Filter Design Improved
+* Fix: Blank Image Problem Solved
+
+= 1.1.5 - 21 May 2020 =
+* Update: Compatible With WordPress 5.4
+* Fix: Post Filter issue Fixed
+
+= 1.1.4 - 18 May 2020 =
+* Fix: Sub Category Post Filter issue Fixed
+* Fix: Post Grid #3 CSS issue Fixed
+
+= 1.1.3 - 14 May 2020 =
+* New: Added New Layout Named Fashion for Fashion website and Fashion Blocks 
+* Update: Update Import Layout Popup
+* Fix: Navigation Color Issue Fixed
+* Fix: Font Typography Default Issue Fixed 
+* Fix: Pagination Color Issue Fixed
+
+= 1.1.2 - 10 May 2020 =
+* New: Wrapper Addons
+* New: Custom Post Type Added in Query
+* New: Post List 2 Inner Content View Style Added
+* New: Post List 3 inner Content View Style Added
+* Fix: Pagination Hover on Mobile Device Issue Fixed 
+* Fix: Post List 3 Number of Post in Query Save Issue Fixed
+* Fix: Slick Theme CSS issue Fixed
+
+= 1.1.1 - 07 May 2020 =
+* Fix: Query Builder Offset not Save Issue Fixed
+* Fix: Pagination Issue Fixed
+* Fix: Next Previous Issue Fixed
+* Fix: Load More Issue Fixed
+* Fix: Post Filter Issue Fixed
+* Fix: Pagination Style for Mobile CSS Issue Fixed
+
+= 1.1.0 - 03 May 2020 =
+* New: Image Block Added
+* Fix: Image Overlay Opacity Issue Fixed
+* Fix: Image Overlay Default Color Issue Fixed
+* Fix: Dashboard Settings Fix
+* Update: Setting Panel Design Update
+
+= 1.0.7 - 28 April 2020 =
+* New: Blocksy Theme Support Added
+* Update: Setting Panel Redesign
+* Fix: Fixed Dynamic Post Slider Height Issue
+* Fix: Fixed Pagination Issue
+* Fix: Fixed Post Grid 2 click Issue
+* Fix: Fixed Load More Issue 
+* Fix: Fixed Title Issue
+
+= 1.0.6 - 25 April 2020 =
+* New: Added Full Excerpt Setting in Post List 1
+* New: Added Full Excerpt Setting in Post List 2
+* New: Added Full Excerpt Setting in Post List 3 
+* New: Added Full Excerpt Setting in Post List 4
+
+= 1.0.5 - 22 April 2020 =
+* Fix: Layout Reset Bug Fix
+
+= 1.0.4 - 20 April 2020 =
+* New: Coblog theme support added
+* New: Pre-made Design Option Added
+* Fix: Post Grid 1 Bug Fix
+* Fix: Responsive Issue Fix
+* Fix: Template Issue Fix
+* Fix: Import Option Improved
+* Fix: Block Preset Design Improvement
+* Update: Setting Panel Redesign
+* Update: WordPress 5.3.2 Tested
+
+= 1.0.3 - 15 April 2020 =
+* New: Added Read More Button Icon disable Option
+* Fix: Post List 1 Meta Position Issue Fixed
+* Fix: Post List 1 Separator Issue Fixed
+* Fix: Post List 1 Column Issue Fixed
+* Fix: Post List 2 Image Border Issue Fixed
+* Fix: Post List 2 Animation Issue Fixed
+* Fix: Post List 3 Image Border Issue Fixed
+* Fix: Post Grid 1 Image Border Issue Fixed
+* Update: WordPress 5.3 Tested
+
+= 1.0.2 - 10 April 2020 =
+* Fix: Template Issue Fixed
+
+= 1.0.1 - 08 April 2020 =
+* New: Added Twenty Twenty theme support
+* New: Added Language File
+* Update: Performance Improved
+* Fix: Post List 1 CSS Fixed
+
+= 1.0.0 - 05 Mar 2020 =
+* New: Initaial version released

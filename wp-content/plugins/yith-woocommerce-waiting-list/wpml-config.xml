@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_yith_waitlist_mail_instock_settings">
+            <key name="heading" />
+            <key name="subject" />
+            <key name="mail_content" />
+        </key>
+        <key name="yith-wcwtl-form-message" />
+        <key name="yith-wcwtl-button-add-label" />
+        <key name="yith-wcwtl-button-leave-label" />
+        <key name="yith-wcwtl-button-success-msg" />
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,106 @@
+.wsds_coundown_shop ul
+{
+	 list-style-type: none;
+	 margin: 0 0 5px 0;
+	 max-width: 250px;
+	 padding: 0 5px;
+}
+.wsds_coundown_single ul{
+    list-style-type: none;
+    margin-bottom: 5px;
+    width: 250px;
+	margin: 0;
+}
+.wsds_coundown_shop ul li,
+.wsds_coundown_single ul li{
+    float: left;
+    text-align: center;
+    padding: 5px 0 !important;
+    width: 25%;
+}
+.wsds_coundown_shop ul li>div,
+.wsds_coundown_single ul li>div{
+    max-width: 75px;
+    color: #3b3b3b;
+}
+.wsds_coundown_shop ul li>div {
+    margin: 0 5px 0 0;
+}
+.wsds_coundown_single ul li>div{
+	margin: 0 10px 0 0;
+}
+.wsds_coundown_single>span {
+    font-size: 16px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.wsds_coundown_shop ul li span,
+.wsds_coundown_single ul li span{
+    display: block;
+}
+.wsds_coundown_shop ul li span.wsds_count_lable,
+.wsds_coundown_single ul li span.wsds_count_lable{
+    white-space: nowrap;
+}
+.wsds_coundown_shop ul li span.wsds_count_digit{
+	font-size: 14px;
+}
+.wsds_coundown_shop ul li span.wsds_count_digit,
+.wsds_coundown_single ul li span.wsds_count_digit{
+    font-weight: 600;
+}
+.wsds_coundown_shop ul li span.wsds_count_digit{
+	line-height: 40px;
+}
+.wsds_coundown_single ul li span.wsds_count_digit{
+	line-height: 60px;
+	font-size: 20px;
+}
+.wsds_coundown_shop ul li span.wsds_count_digit,
+.wsds_coundown_single ul li span.wsds_count_digit{
+	font-weight: 600;
+    border-radius: 6px;
+    background-color: #ffffff;
+    box-shadow: 0 0 6px #b1b1b1;
+	position: relative;
+	text-align: center;
+}
+.wsds_coundown_shop ul li span.wsds_count_digit:before,
+.wsds_coundown_single ul li span.wsds_count_digit:before {
+    content: '';
+    position: absolute;
+    background-color: #dcdcdc;
+    left: 0;
+    right: 0;
+    height: 1px;
+    width: 100%;
+    top: 50%;
+	margin-top: -1px;
+}
+.wsds_coundown_shop>span,
+.wsds_coundown_shop ul li span.wsds_count_lable{
+    font-size: 13px;
+}
+.wsds_coundown_shop ul li span.wsds_count_lable,
+.wsds_coundown_single ul li span.wsds_count_lable{
+	color: #5a5a5a;
+	margin-top: 5px;
+}
+.wsds_coundown_single ul li span.wsds_count_lable{
+    font-size: 14px;
+}
+.wsds_coundown_shop {
+    display: grid;
+}
+.wsds_coundown_single
+{
+	display: table;
+}
+@media (max-width:480px){
+	.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product{
+		width: 100% !important;
+	}
+	.wsds_coundown_single>span {
+    font-size: 15px;
+	}
+}

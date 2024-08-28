@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="50" viewBox="0 0 132 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bcbcbc"/>
+      <stop offset="1" stop-color="#7d7d7d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1858" data-name="Group 1858" transform="translate(-1213 -456)">
+    <rect id="Rectangle_367" data-name="Rectangle 367" width="132" height="50" rx="25" transform="translate(1213 456)" fill="url(#linear-gradient)"/>
+    <text id="Click_Here" data-name="Click Here" transform="translate(1243 487)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Click Here</tspan></text>
+  </g>
+</svg>

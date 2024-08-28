@@ -1,0 +1,106 @@
+/**
+* @package cgym-hub-lite
+*/
+@media (max-width: 1100px) {
+    .mainwidth {  margin: 0 auto;  width: 100%;}
+    .banner img{width: 100%;}
+    .container{ width: 99%; padding: 0 0px; }
+    .bannerlogo {    top: 32%;    left: 30%;    right: 30%;	}
+    .header_right.headercommon{ width:65%;}
+    .header_left.headercommon{width:35%;}
+}
+@media (max-width: 1017px) {
+    .header_middle.headercommon{ text-align: right; }
+    .footcommon{ margin:0 2px; }
+    .header_right.headercommon{ width:100%; float:none; text-align:center;}
+    .header_left.headercommon{width:100%;float:none;text-align:center;}
+    #header .logo p{text-align:center;}
+}	
+@media (max-width: 992px) {
+    .top4box { width: 49%;}
+    .header_bottom_left {    float: none;    width: 100%;    display: block;    text-align: center;}
+    .header_bottom_right {    float: none;    width: 100%; margin:11px 0 15px 0; text-align: center; padding:0; margin:0 0 15px 0;}
+    #main_header #header_bottom{ background-color:none;}
+    #header_bottom .logo p{ text-align: center;  }
+    .bannercaption{padding:1px 13px 4px;}
+    .banner_button{margin:0;}
+    .bannercontent h3{margin-top: 5px;margin-bottom: 5px;}
+    .creditlink {    float: none;    width: 100%;    text-align: center;}
+    .creditcopy {    float: none;    width: 100%;    text-align: center;}
+    .site-main {       float: none;    width: 100%;}
+    #sidebar {   float: none;width: 99%;margin: 2% auto;clear: both;}
+    .toggle a{ width: auto; }
+    section#header{padding:0;}
+    section#header header { text-align: center;}
+    .header_middle.headercommon{ margin:20px 0 20px 0; }
+    .threebox{margin:0 .4% 2.4%; width: 45%;}
+    .header_top .logo p {  text-align: center;}
+    .col-md-4.header_right {  width: 255px;  margin: 0 auto;}
+    #main_navigation .togglemenu{display: block; background-color: #1bbde3; color: #ffffff;}
+    a.togglemenu[href]:focus{ background-color: #1bbde3; color: #ffffff; }
+    #main_navigation .sitenav{float:none; margin:0; position:relative; overflow-x:hidden; background-color:#fff; border-radius:0; top:0; border-bottom:none; }
+    #main_navigation .nav ul{color:#000; width:100% !important; float:none !important; margin:0; padding:0; left: 0 !important; z-index: 999;}
+    #main_navigation .nav ul li{border-top:1px #cccccc solid; display:block; float:none; text-align:left; border-bottom:1px solid #cccccc;}
+    #main_navigation .nav ul li a{padding:5px 10px !important; display:block; color:#000; border:none;}
+    #main_navigation .nav ul li a:hover, 
+    #main_navigation .nav ul li.current_page_item a{color:#ffffff;  border:none !important;}
+    #main_navigation .nav ul a:hover, #main_navigation .nav ul a:focus, #main_navigation .nav ul a:active, #main_navigation .nav ul li.hover a {
+        /* <- keeps the tab hover state on as the dropdown gets explored */
+        background-color: #1bbde3;
+        color: #ffffff;  
+    }
+    #main_navigation .nav ul li.current_page_item li a{ background: none; color: #000000; }
+    #main_navigation .nav ul li ul,
+    #main_navigation .nav ul li.hover ul,
+    #main_navigation .nav ul li:focus ul, 
+    #main_navigation .nav ul li ul ul,
+    #main_navigation .nav ul li.hover ul ul,
+    #main_navigation .nav ul li:focus ul ul{ display:block !important;}
+    #main_navigation .nav ul li ul li a:before{content:"\00BB \00a0";}
+    #main_navigation .nav ul li ul li a{ border:none;}
+    #main_navigation .nav ul li:hover ul a, #main_navigation .nav ul li.hover ul a{ width: 100%; }
+    #main_navigation .nav ul ul, #main_navigation .nav ul ul ul { position: relative; top: 0; width: auto;}
+    #main_navigation .nav ul ul li:hover ul,
+    #main_navigation .nav ul ul li.hover ul,
+    #main_navigation .nav ul ul li:focus ul {top: 0;}
+    #main_navigation .nav ul li:hover ul li:hover > ul,
+    #main_navigation .nav ul li.hover ul li.hover > ul,
+    #main_navigation .nav ul li:focus ul li:focus > ul {    display: block;    position: relative;  top: 0;}
+    #main_navigation .nav ul li:hover ul a, #manain_navigation .nav ul li.hover ul a {    width: 100%; margin-top: auto; }
+    #main_navigation .sitenav ul li{border: none;}
+    .footerinner-top {   padding: 5px 0 15px;}
+    #main_navigation .nav ul li:hover ul a, #main_navigation .nav ul li.hover ul a
+    {
+        background-color:#ffffff;
+        color:#000000;
+    }
+}
+@media (max-width: 900px) {
+    .bannerlogo{top: 30%;left: 20%;right: 20%;}
+    #main_header {position:relative;}
+}
+@media (max-width: 800px) {
+    .bannerlogo{top: 30%;left: 20%;right: 20%;}
+    .bannerlogo h1{ font-size: 30px; }
+    .bannercontent {top: 30%;	left: 20%;	right: 20%;	}
+}
+@media (max-width: 766px) {
+    .footcommon {    width: 99%;    float: none;    text-align: center;    margin: 0 0 16px;    border: 1px solid #fff;    padding: 0 0 11px;}
+    footer h3 {    border-bottom: none;    padding: 0 0 16px 0;    margin: 11px 0;    color: #ffffff;    text-transform: uppercase;    font-size: 20px;}
+    footer li{ list-style: none; }
+    .threebox{ width: 80%;}
+    .header_right.headercommon{line-height: 28px;}
+    .bannercontent{display: none;}
+    .top4box { width: 100%;}
+}
+@media (max-width: 500px) {
+    .bannerlogo h1{ font-size: 25px; }
+    .bannerlogo p{ font-size: 15px; }
+    .bannercontent {top: 15%;	left: 10%;	right: 10%;	 }
+    .banner_sub_heading{ display: none; }
+    .threebox{ width: 90%;}
+}
+@media (max-width: 410px) {
+    .bannerlogo {	top: 22%;	left: 10%;	right: 10%;}
+    .bannercontent {top: 10%;	left: 10%;	right: 10%;	}
+}

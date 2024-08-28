@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-11 10:34+0700\n"
+"PO-Revision-Date: 2022-11-24 20:32+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - flash-sale-product-wc-wpshare247 - Stable (latest release)\n"
+
+#: inc/option-form-template.php
+msgid "Flash Sale Product for WooCommerce - WPSHARE247"
+msgstr "Thêm thanh Flash sale đã bán dưới sản phẩm WoocCmmerce - WPSHARE247"
+
+msgid "Bar text"
+msgstr ""
+
+msgid "Sold out"
+msgstr ""
+
+msgid "Bar background color"
+msgstr ""
+
+msgid "Sold out background color"
+msgstr ""
+
+msgid "Hide when sold out"
+msgstr ""
+
+msgid "Flash sale"
+msgstr ""
+
+msgid "Sale total"
+msgstr ""
+
+msgid "Sold total"
+msgstr ""

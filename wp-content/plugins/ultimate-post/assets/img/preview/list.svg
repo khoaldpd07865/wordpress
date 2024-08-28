@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="-120 0 392 112">
+  <g id="Group_4" data-name="Group 4" transform="translate(-355 -172)">
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(355 172)" fill="none" stroke="#2e2e2e" stroke-width="2.2">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="10.9" fill="none"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="12" cy="12" r="12" transform="translate(355 216)" fill="#2e2e2e"/>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(355 260)" fill="none" stroke="#2e2e2e" stroke-width="2.2">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="10.9" fill="none"/>
+    </g>
+    <text id="List_Item_1" data-name="List Item 1" transform="translate(393 191)" fill="#2e2e2e" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">List Item 1</tspan></text>
+    <text id="List_Item_2" data-name="List Item 2" transform="translate(393 235)" fill="#2e2e2e" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">List Item 2</tspan></text>
+    <text id="List_Item_3" data-name="List Item 3" transform="translate(393 279)" fill="#2e2e2e" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">List Item 3</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M401.571,210.36l3.268,3.268,6.815-6.815" transform="translate(-39.512 -26.221)" fill="none" stroke="#2e2e2e" stroke-linecap="round" stroke-width="2.2"/>
+    <path id="Path_2" data-name="Path 2" d="M401.571,210.36l3.268,3.268,6.815-6.815" transform="translate(-39.512 17.779)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.2"/>
+    <path id="Path_3" data-name="Path 3" d="M401.571,210.36l3.268,3.268,6.815-6.815" transform="translate(-39.512 61.779)" fill="none" stroke="#2e2e2e" stroke-linecap="round" stroke-width="2.2"/>
+  </g>
+</svg>

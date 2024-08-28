@@ -1,0 +1,910 @@
+# Translation of Plugins - Sales Countdown Timer - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Sales Countdown Timer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-30 07:34:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Sales Countdown Timer - Development (trunk)\n"
+
+#: includes/3rd/elementor/shortcode-widget.php:46
+msgid "Countdown Profile"
+msgstr "Mẫu đồng hồ đếm ngược"
+
+#: includes/3rd/elementor/shortcode-widget.php:38
+msgid "General"
+msgstr "Chung"
+
+#: admin/admin.php:792
+msgid "Restart countdown after"
+msgstr "Bắt đầu lặp lại đếm ngược sau"
+
+#: admin/admin.php:784
+msgid "Countdown evergreen"
+msgstr "Vòng lặp vô hạn đến ngược"
+
+#: admin/admin.php:552
+msgid "History time"
+msgstr "Lịch sử"
+
+#: admin/admin.php:541
+msgid "Save Logs"
+msgstr "Lưu nhật ký"
+
+#: admin/admin.php:59
+msgid "Report"
+msgstr "Thống kê"
+
+#: admin/admin.php:1912
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/admin.php:1698
+msgid "Data saved."
+msgstr "Dữ liệu đã được lưu."
+
+#: admin/admin.php:1690
+msgid "Names can not be empty."
+msgstr "Tên không thể để trống."
+
+#: admin/admin.php:1684
+msgid "Names are unique."
+msgstr "Tên là duy nhất."
+
+#: admin/admin.php:1679
+msgid "Can not remove all Countdown timer settings."
+msgstr "Không thể xóa hết cài đặt đồng hồ đếm ngược."
+
+#: admin/admin.php:1611
+msgid "Settings saved"
+msgstr "Cài đặt đã được lưu"
+
+#: admin/admin.php:1547
+msgid "Below Countdown"
+msgstr "Phía dưới đồng hồ đếm ngược"
+
+#: admin/admin.php:1546
+msgid "Above Countdown"
+msgstr "Phía trên đồng hồ đếm ngược"
+
+#: admin/admin.php:1536
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+#: admin/admin.php:1533
+msgid "Refunded"
+msgstr "Đã được hoàn tiền"
+
+#: admin/admin.php:1530
+msgid "Failed"
+msgstr "Bị thất bại"
+
+#: admin/admin.php:1527
+msgid "Processing"
+msgstr "Đang xử lý"
+
+#: admin/admin.php:1524
+msgid "Pending"
+msgstr "Đang chờ xử lý"
+
+#: admin/admin.php:1521
+msgid "On-hold"
+msgstr "Tạm giữ"
+
+#: admin/admin.php:1518
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+#: admin/admin.php:1513
+msgid "When new order created, update the progress bar when order status are(leave blank to apply for all order status):"
+msgstr "Khi đơn hàng mới được tạo ra, cập nhật thanh trạng thái khi trạng thái đơn hàng là(để trống để áp dụng cho tất cả các trạng thái đơn hàng):"
+
+#: admin/admin.php:1508
+msgid "Order status"
+msgstr "Trạng thái đơn hàng"
+
+#: admin/admin.php:1503
+msgid "Decrease"
+msgstr "Giảm"
+
+#: admin/admin.php:1502
+msgid "Increase"
+msgstr "Tăng"
+
+#: admin/admin.php:1498
+msgid "If select increase, the progress bar fill will increase each time the product is bought and vice versa"
+msgstr "Nếu lựa chọn tăng, thanh tiến trình sẽ tăng mỗi lần sản phẩm được mua và ngược lại"
+
+#: admin/admin.php:1496
+msgid "Progress bar type"
+msgstr "Kiểu thanh tiến trình"
+
+#: admin/admin.php:1492
+msgid "The goal that you set on single product"
+msgstr "Tổng số lượng sản phẩm mục tiêu bạn thiết lập trên trang chi tiết sản phẩm "
+
+#: admin/admin.php:1490
+msgid "Percentage of products sold"
+msgstr "Phần trăm sản phẩm đã bán"
+
+#: admin/admin.php:1488
+msgid "Percentage of products left"
+msgstr "Phần trăm sản phẩm còn lại"
+
+#: admin/admin.php:1486
+msgid "Number of products sold"
+msgstr "Số sản phẩm đã bán"
+
+#: admin/admin.php:1485
+msgid "Number of products left"
+msgstr "Số sản phẩm còn lại"
+
+#: admin/admin.php:1476
+msgid "Progress bar message"
+msgstr "Thông báo trên thanh tiến trình"
+
+#: admin/admin.php:1474
+msgid "Progress bar"
+msgstr "Thanh tiến trình"
+
+#: admin/admin.php:1462
+msgid "Upcoming sale message"
+msgstr "Thông báo ưu đãi sắp tới"
+
+#: admin/admin.php:1449
+msgid "Upcoming sale"
+msgstr "Ưu đãi sắp tới"
+
+#: admin/admin.php:1437
+msgid "Reduce size of countdown timer on shop/category page and on mobile(single product) by"
+msgstr "Giảm kích cỡ đồng hồ đếm ngược trên trang cửa hàng/danh mục và trên điện thoại(chi tiết sản phẩm) "
+
+#: admin/admin.php:1427
+msgid "Show on category page"
+msgstr "Hiển thị trên trang danh mục"
+
+#: admin/admin.php:1417
+msgid "Show on shop page"
+msgstr "Hiển thị trên trang cửa hàng"
+
+#: admin/admin.php:1401
+msgid "Position of countdown timer on shop page, category page and related products"
+msgstr "Vị trí của đồng hồ đếm ngược trên trang cửa hàng, trang danh mục và sản phẩm có liên quan"
+
+#: admin/admin.php:1399
+msgid "Position on archive page"
+msgstr "Vị trí trên trang lưu trữ"
+
+#: admin/admin.php:1394 admin/admin.php:1410
+msgid "Product image"
+msgstr "Ảnh sản phẩm"
+
+#: admin/admin.php:1393 admin/admin.php:1409
+msgid "After cart"
+msgstr "Phía dưới giỏ hàng"
+
+#: admin/admin.php:1392 admin/admin.php:1408
+msgid "Before cart"
+msgstr "Phía trước giỏ hàng"
+
+#: admin/admin.php:1391 admin/admin.php:1407
+msgid "After sale flash"
+msgstr "Phía sau giá ưu đãi"
+
+#: admin/admin.php:1390 admin/admin.php:1406
+msgid "Before sale flash"
+msgstr "Phía trước giá ưu đãi"
+
+#: admin/admin.php:1389 admin/admin.php:1405
+msgid "After price"
+msgstr "Phía dưới giá"
+
+#: admin/admin.php:1388 admin/admin.php:1404
+msgid "Before price"
+msgstr "Phía trước giá"
+
+#: admin/admin.php:1385
+msgid "Position of countdown timer of main product on single product page(Can not set position for variations)"
+msgstr "Vị trí của đồng hồ đếm ngược trên trang chi tiết sản phẩm (Không thể thiết lập vị trí đối với sản phẩm biến thể)"
+
+#: admin/admin.php:1383
+msgid "Position on single product page"
+msgstr "Vị trí trên trang chi tiết sản phẩm"
+
+#: admin/admin.php:1373
+msgid "Make countdown timer sticky when scroll"
+msgstr "Tạo đồng hồ đếm ngược Sticky khi cuộn trang"
+
+#: admin/admin.php:1366
+msgid "WooCommerce Product"
+msgstr "Sản phẩm WooCommerce"
+
+#: admin/admin.php:1333
+msgid "Datetime unit"
+msgstr "Đơn vị ngày giờ"
+
+#: admin/admin.php:1322 admin/admin.php:1353
+msgid "Font size(px)"
+msgstr "Kích cỡ font(px)"
+
+#: admin/admin.php:1302
+msgid "Datetime value"
+msgstr "Giá trị ngày giờ"
+
+#: admin/admin.php:1288 admin/admin.php:1551
+msgid "Width(px)"
+msgstr "Độ rộng(px)"
+
+#: admin/admin.php:1280 admin/admin.php:1558
+msgid "Height(px)"
+msgstr "Độ cao(px)"
+
+#: admin/admin.php:1272 admin/admin.php:1583
+msgid "Border radius(px)"
+msgstr "Bo viền(px)"
+
+#: admin/admin.php:1250
+msgid "Countdown timer items"
+msgstr "Đồng hồ đếm ngược mặt hàng"
+
+#: admin/admin.php:1238
+msgid "Border radius"
+msgstr "Bo viền"
+
+#: admin/admin.php:1230
+msgid "Padding(px)"
+msgstr "Lề trong (Padding)(px)"
+
+#: admin/admin.php:1221 admin/admin.php:1264
+msgid "Border color"
+msgstr "Màu viền"
+
+#: admin/admin.php:1213 admin/admin.php:1314 admin/admin.php:1345
+#: admin/admin.php:1567
+msgid "Background"
+msgstr "Màu nền "
+
+#: admin/admin.php:1205 admin/admin.php:1306 admin/admin.php:1337
+#: admin/admin.php:1575
+msgid "Color"
+msgstr "Màu "
+
+#: admin/admin.php:1201
+msgid "Countdown timer"
+msgstr "Đồng hồ đếm ngược"
+
+#: admin/admin.php:1195
+msgid "(*)Countdown timer items Border radius, Height and Width are not applied to this type."
+msgstr "(*)Bo viền, độ cao, chiều rộng của đồng hồ đếm ngược không được áp dụng cho kiểu này."
+
+#: admin/admin.php:1193
+msgid "Use smooth animation for circle"
+msgstr "Sử dụng chuyển động mượt cho kiểu đồng hồ đếm ngược tròn"
+
+#: admin/admin.php:1164
+msgid "40"
+msgstr "40"
+
+#: admin/admin.php:1150
+msgid "30"
+msgstr "30"
+
+#: admin/admin.php:1122
+msgid "10"
+msgstr "10"
+
+#: admin/admin.php:961 admin/admin.php:1025 admin/admin.php:1083
+msgid "04"
+msgstr "04"
+
+#: admin/admin.php:953 admin/admin.php:1017 admin/admin.php:1076
+msgid "03"
+msgstr "03"
+
+#: admin/admin.php:945 admin/admin.php:1009 admin/admin.php:1069
+#: admin/admin.php:1136
+msgid "02"
+msgstr "03"
+
+#: admin/admin.php:937 admin/admin.php:1001 admin/admin.php:1062
+msgid "01"
+msgstr "01"
+
+#: admin/admin.php:904
+msgid "Display type"
+msgstr "Kiểu hiển thị"
+
+#: admin/admin.php:870
+msgid "Slide"
+msgstr "Trượt"
+
+#: admin/admin.php:869
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/admin.php:866
+msgid "Animation style"
+msgstr "Kiểu chuyển động"
+
+#: admin/admin.php:862
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: admin/admin.php:861
+msgid "Top"
+msgstr "Trên cùng"
+
+#: admin/admin.php:858
+msgid "Datetime unit position"
+msgstr "Vị trí đơn vị ngày giờ"
+
+#: admin/admin.php:848 includes/3rd/elementor/shortcode-widget.php:110
+msgid "01d:02h:03m:04s"
+msgstr "01n:02g:03p:04g"
+
+#: admin/admin.php:847 includes/3rd/elementor/shortcode-widget.php:109
+msgid "01:02:03:04"
+msgstr "01:02:03:04"
+
+#: admin/admin.php:846 includes/3rd/elementor/shortcode-widget.php:108
+msgid "01 days 02 hours 03 minutes 04 seconds"
+msgstr "01 ngày 02 giờ 03 phút 04 giây"
+
+#: admin/admin.php:845 includes/3rd/elementor/shortcode-widget.php:107
+msgid "01 days 02 hrs 03 mins 04 secs"
+msgstr "01 ngày 02 giờ 03 phút 04 giây"
+
+#: admin/admin.php:842 includes/3rd/elementor/shortcode-widget.php:103
+msgid "Datetime format style"
+msgstr "Kiểu định dạng ngày giờ"
+
+#: admin/admin.php:838 includes/3rd/elementor/shortcode-widget.php:95
+msgid "Dot(.)"
+msgstr "Dấu chấm(.)"
+
+#: admin/admin.php:837 includes/3rd/elementor/shortcode-widget.php:94
+msgid "Comma(,)"
+msgstr "Dấu phẩy(,)"
+
+#: admin/admin.php:836 includes/3rd/elementor/shortcode-widget.php:93
+msgid "Colon(:)"
+msgstr "Dấu hai chấm(:)"
+
+#: admin/admin.php:835 includes/3rd/elementor/shortcode-widget.php:92
+msgid "Blank"
+msgstr "Trống"
+
+#: admin/admin.php:832 includes/3rd/elementor/shortcode-widget.php:88
+msgid "Time separator"
+msgstr "Dấu phân cách thời gian"
+
+#: admin/admin.php:828 includes/3rd/elementor/shortcode-widget.php:82
+msgid "The countdown timer will not show if message does not include {countdown_timer}"
+msgstr "Đồng hồ đếm ngược sẽ không hiển thị nếu thông báo không chứa {countdown_timer}"
+
+#: admin/admin.php:827
+msgid "woo-sctr-hidden-class"
+msgstr "woo-sctr-hidden-class"
+
+#: admin/admin.php:825 admin/admin.php:1468
+msgid "The countdown timer that you set on tab design"
+msgstr "Đồng hồ đếm ngược bạn thiết lập trên thẻ Thiết kế"
+
+#: admin/admin.php:817 includes/3rd/elementor/shortcode-widget.php:79
+msgid "Message"
+msgstr "Thông báo"
+
+#: admin/admin.php:803 includes/3rd/elementor/shortcode-widget.php:72
+msgid "Design"
+msgstr "Thiết kế"
+
+#: admin/admin.php:764 includes/3rd/elementor/shortcode-widget.php:63
+msgid "To"
+msgstr "Tới"
+
+#: admin/admin.php:745 includes/3rd/elementor/shortcode-widget.php:55
+msgid "From"
+msgstr "Từ"
+
+#: admin/admin.php:742
+msgid "These values are used for shortcode only. To schedule sale for product please go to admin product."
+msgstr "Những cài đặt này chỉ sử dụng cho đồng hồ đếm người từ mã ngắn. Để cài đặt đồng hồ đếm ngược giảm giá cho sản phẩm, vui lòng tới trang sửa sản phẩm."
+
+#: admin/admin.php:739
+msgid "Schedule time for shortcode usage"
+msgstr "Lên lịch cho đồng hồ đếm ngược sử dụng cho mã ngắn"
+
+#: admin/admin.php:731
+msgid "Name"
+msgstr "Tên"
+
+#: admin/admin.php:724
+msgid "General settings"
+msgstr "Cài đặt chung"
+
+#: admin/admin.php:716
+msgid "Remove"
+msgstr "Xóa"
+
+#: admin/admin.php:715
+msgid "Duplicate"
+msgstr "Sao chép"
+
+#: admin/admin.php:714
+msgid "Copy shortcode"
+msgstr "Sao chép mã ngắn"
+
+#: admin/admin.php:711
+msgid "Shortcode: "
+msgstr "Mã ngắn:"
+
+#: admin/admin.php:705
+msgid "To: "
+msgstr "Tới:"
+
+#: admin/admin.php:701
+msgid "From: "
+msgstr "Từ:"
+
+#: admin/admin.php:666
+msgid "here."
+msgstr "ở đây."
+
+#: admin/admin.php:666
+msgid "See your very first sales countdown timer "
+msgstr "Xem đồng hồ đếm ngược giảm giá đầu tiên của bạn"
+
+#: admin/admin.php:603 admin/admin.php:1606
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/admin.php:593
+msgid "Reset current checkout discount applied to your account when Test mode is enabled"
+msgstr "Đặt lại ưu đãi thanh toán hiện tại áp dụng cho tài khoản của bạn khi bật chế độ thử nghiệm"
+
+#: admin/admin.php:586
+msgid "Reset checkout countdown"
+msgstr "Đặt lại đếm ngược thanh toán"
+
+#: admin/admin.php:580
+msgid "The checkout countdown will be applied only to Administrators for testing purpose"
+msgstr "Đếm ngược thanh toán sẽ chỉ áp dụng cho quản trị trang web với mục đích thử nghiệm"
+
+#: admin/admin.php:573
+msgid "Test mode"
+msgstr "Chế độ thử nghiệm"
+
+#: admin/admin.php:439 admin/admin.php:523
+msgid "Select Countdown timer"
+msgstr "Chọn đồng hồ đếm ngược"
+
+#: admin/admin.php:428 admin/admin.php:512 admin/admin.php:1543
+msgid "Position"
+msgstr "Vị trí"
+
+#: admin/admin.php:422 admin/admin.php:506
+msgid "The current cart total without applying discount "
+msgstr "Tổng giỏ hàng hiện tại chưa áp dụng ưu đãi"
+
+#: admin/admin.php:419 admin/admin.php:503
+msgid "The minimum cart total required to get offer"
+msgstr "Tổng giỏ hàng tối thiểu bắt buộc để nhận ưu đãi"
+
+#: admin/admin.php:416 admin/admin.php:500
+msgid "The missing amount to get offer. Not apply to 'Checkout countdown message'"
+msgstr "Lượng giỏ hàng còn thiếu để nhận được ưu đãi. Không áp dụng cho 'Thông báo đếm ngược thanh toán'"
+
+#: admin/admin.php:413 admin/admin.php:497
+msgid "The discount amount in currency. Not apply to 'Message if missing offer'"
+msgstr "Lượng chiết khấu cố định. Không áp dụng đối với \"Thông báo nếu chưa đủ điều kiện nhận ưu đãi\""
+
+#: admin/admin.php:410 admin/admin.php:494
+msgid "The discount in percentage. Not apply to 'Message if missing offer'"
+msgstr "Phần trăn chiết khấu. Không áp dụng đối với \"Thông báo nếu chưa đủ điều kiện nhận ưu đãi\""
+
+#: admin/admin.php:408 admin/admin.php:492
+msgid "The button go to store"
+msgstr "Nút đi tới cửa hàng"
+
+#: admin/admin.php:406 admin/admin.php:490
+msgid "The checkout button"
+msgstr "Nút thanh toán"
+
+#: admin/admin.php:403 admin/admin.php:487
+msgid "The countdown timer that you set up on 'Sales Countdown Timer' page"
+msgstr "Đồng hồ đếm ngược bạn đã thiết lập trên thẻ \"Đồng hồ đếm ngược\""
+
+#: admin/admin.php:398 admin/admin.php:482
+msgid "Shortcode available"
+msgstr "Mã ngắn có sẵn"
+
+#: admin/admin.php:391 admin/admin.php:475
+msgid "This message only shows during checkout countdown when a cart is updated so that the current cart is smaller than the minimum required value."
+msgstr "Thông báo này chỉ hiển thị trong thời gian đếm ngược thanh toán khi giỏ hàng được cập nhập để giỏ hàng hiện tại nhỏ hơn giá trị yêu cầu tối thiểu"
+
+#: admin/admin.php:383 admin/admin.php:467
+msgid "Message if missing offer"
+msgstr "Thông báo nếu chưa đủ điều kiện nhận ưu đãi"
+
+#: admin/admin.php:372 admin/admin.php:456
+msgid "Checkout countdown message"
+msgstr "Thông báo trên đếm ngược thanh toán"
+
+#: admin/admin.php:353
+msgid "Background color of Shop button"
+msgstr "Màu nền của nút mua sắm"
+
+#: admin/admin.php:341
+msgid "Text color of Shop button"
+msgstr "Màu chữ của nút mua sắm"
+
+#: admin/admin.php:329
+msgid "Fontsize of Shop button"
+msgstr "Fontsize của nút mua sắm"
+
+#: admin/admin.php:317
+msgid "Open in new tab when clicking Shop button"
+msgstr "Mở thẻ mới khi nhấp vào nút mua sắm"
+
+#: admin/admin.php:305
+msgid "Title of Shop button"
+msgstr "Tiêu đề của nút mua sắm"
+
+#: admin/admin.php:287
+msgid "Background color of Checkout button"
+msgstr "Màu nền của nút thanh toán"
+
+#: admin/admin.php:275
+msgid "Text color of Checkout button"
+msgstr "Màu chữ của nút thanh toán"
+
+#: admin/admin.php:263
+msgid "Fontsize of Checkout button"
+msgstr "Fontsize của nút thanh toán"
+
+#: admin/admin.php:251
+msgid "Open in new tab when clicking Checkout button"
+msgstr "Mở thẻ mới khi nhấp vào nút thanh toán"
+
+#: admin/admin.php:239
+msgid "Title of Checkout button"
+msgstr "Tiêu đề của nút thanh toán"
+
+#: admin/admin.php:223
+msgid "Select pages to show checkout countdown. Leave blank to show checkout countdown on all pages."
+msgstr "Lựa chọn các trang để hiển thị đồng hồ đếm ngược thanh toán. Để trống để hiện thị đồng hồ đếm ngược thanh toán trên tất cả các trang"
+
+#: admin/admin.php:212
+msgid "Display countdown timer on"
+msgstr "Hiển thị đồng hồ đếm ngược trên"
+
+#: admin/admin.php:195
+msgid "Level discount"
+msgstr "Mức ưu đãi"
+
+#: admin/admin.php:187
+msgid "Custom: Create your own levels that you want to change the offer, message can be customized for each level"
+msgstr "Tùy chỉnh: Tạo các mức ưu đãi riêng mà bạn muốn, thông báo ưu đãi có để tùy chỉnh với mỗi mức ưu đãi "
+
+#: admin/admin.php:185
+msgid "Auto change: Decrease the current discount by a specific percentage every X minute(s) or second(s)"
+msgstr "Tự động thay đổi: Giảm lượng chiết khấu theo tỷ lệ phần trăm nhất định mỗi X giây hoặc phút"
+
+#: admin/admin.php:183
+msgid "None: The current discount is applied until the countdown hits zero"
+msgstr "Không: Chiết khấu hiện tại sẽ được áp dụng cho đến khi đến ngược về 0"
+
+#: admin/admin.php:180
+msgid "Below options are used if you want to change offer when the countdown hits specific values"
+msgstr "Những tùy chọn dưới đây được sử dụng nếu bạn muốn thay đổi ưu đãi khi đồng hồ đếm ngược chạm tới giá trị cụ thể nào đó"
+
+#: admin/admin.php:173
+msgid "Customers will get this offer before checkout countdown time hits zero"
+msgstr "Khách hàng sẽ nhận được ưu đãi này trước khi đồng hồ đếm ngược thanh toán chạm tới 0"
+
+#: admin/admin.php:164
+msgid "Discount amount"
+msgstr "Lượng chiết khấu"
+
+#: admin/admin.php:153
+msgid "Free Shipping"
+msgstr "Miễn phí giao hàng"
+
+#: admin/admin.php:145
+msgid "Checkout countdown offer"
+msgstr "Ưu đãi đếm ngược thanh toán"
+
+#: admin/admin.php:136
+msgid "Minimum cart total to get offer"
+msgstr "Tổng giỏ hàng tối thiểu để nhận được ưu đãi"
+
+#: admin/admin.php:128
+msgid "Min cart total(%s)"
+msgstr "Tổng giá trị giỏ hàng tối thiểu(%s)"
+
+#: admin/admin.php:122
+msgid "Start checking if a cart is qualified to get offer when:"
+msgstr "Bắt đầu kiểm tra nếu giỏ hàng phù hợp để nhận ưu đãi khi:"
+
+#: admin/admin.php:115
+msgid "Action"
+msgstr "Hành động"
+
+#: admin/admin.php:107
+msgid "Starting condition"
+msgstr "Điều kiện hiển thị"
+
+#: admin/admin.php:101
+msgid "The maximum valid time that this offer bellow are applied. When time hits zero, offer will be gone"
+msgstr "Thời gian hợp lệ tối đa mà ưu đãi sau được áp dụng. Khi thời gian chạm 0, ưu đãi sẽ không còn"
+
+#: admin/admin.php:94
+msgid "Countdown time"
+msgstr "Thời gian đếm ngược"
+
+#: admin/admin.php:88
+msgid "Reset checkout countdown for a cart after this time if customer does not place order during checkout countdown"
+msgstr "Đặt lại đếm ngược thanh toán cho giỏ hàng sau khoảng thời gian này nếu khách hàng không đặt hàng trong suốt khoảng thời gian đếm ngược thanh toán"
+
+#: admin/admin.php:81
+msgid "Reset Countdown"
+msgstr "Đặt lại đếm ngược"
+
+#: admin/admin.php:75 admin/admin.php:86 admin/admin.php:99 admin/admin.php:119
+#: admin/admin.php:133 admin/admin.php:157 admin/admin.php:168
+#: admin/admin.php:200 admin/admin.php:220 admin/admin.php:245
+#: admin/admin.php:257 admin/admin.php:269 admin/admin.php:281
+#: admin/admin.php:293 admin/admin.php:311 admin/admin.php:323
+#: admin/admin.php:335 admin/admin.php:347 admin/admin.php:359
+#: admin/admin.php:377 admin/admin.php:388 admin/admin.php:433
+#: admin/admin.php:444 admin/admin.php:461 admin/admin.php:472
+#: admin/admin.php:517 admin/admin.php:528 admin/admin.php:545
+#: admin/admin.php:556 admin/admin.php:578 admin/admin.php:591
+#: admin/admin.php:786 admin/admin.php:794
+msgid "Unlock This Feature"
+msgstr "Mở khóa tính năng này"
+
+#: admin/admin.php:70 admin/admin.php:1452
+msgid "Enable"
+msgstr "Bật"
+
+#: admin/admin.php:64
+msgid "Note*: Changes in these settings will not be applied to carts which are already in a checkout countdown."
+msgstr "Chú ý*: Những thay đổi trong cài đặt này sẽ không áp dụng cho giỏ hàng đã nhận ưu đãi từ một đếm ngược thanh toán"
+
+#: admin/admin.php:60
+msgid "Video Preview"
+msgstr "Xem trước video"
+
+#: admin/admin.php:58
+msgid "Design on other page"
+msgstr "Thiết kế trên các trang khác"
+
+#: admin/admin.php:57
+msgid "Design on checkout page"
+msgstr "Thiết kế trên trang thanh toán"
+
+#: admin/admin.php:56
+msgid "Display checkout countdown"
+msgstr "Hiển thị đếm ngược thanh toán"
+
+#: admin/admin.php:55
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: admin/admin.php:51
+msgid "Checkout Countdown Timer For WooCommerce"
+msgstr "Đồng hồ đêm ngược thanh toán cho WooCommerce"
+
+#: admin/admin.php:39 admin/admin.php:40
+msgid "Checkout Countdown"
+msgstr "Đếm ngược thanh toán"
+
+#: admin/admin.php:31
+msgid "Countdown Timer"
+msgstr "Đồng hồ đếm ngược"
+
+#: admin/product.php:257
+msgid "Sale end date"
+msgstr "Ngày kết thúc giảm giá"
+
+#: admin/product.php:252
+msgid "Sale start date"
+msgstr "Ngày bắt đầu giảm giá"
+
+#: admin/product.php:233 admin/product.php:288
+msgid "This is the virtual quantity of sold products"
+msgstr "Đây là giá trị ảo lượng sản phẩm đã bán"
+
+#: admin/product.php:233 admin/product.php:288
+msgid "Initial quantity"
+msgstr "Lượng ban đầu"
+
+#: admin/product.php:232 admin/product.php:287
+msgid "Your product goal"
+msgstr "Lượng sản phẩm mục tiêu của bạn"
+
+#: admin/product.php:232 admin/product.php:287
+msgid "Goal"
+msgstr "Mục tiêu"
+
+#: admin/product.php:228 admin/product.php:283
+msgid "Enable progress bar"
+msgstr "Bật thanh tiến trình"
+
+#: admin/product.php:222 admin/product.php:276
+msgid "Select countdown timer settings."
+msgstr "Chọn cài đặt đồng hồ đếm ngược"
+
+#: admin/product.php:219 admin/product.php:273
+msgid "Countdown timer profile"
+msgstr "Mẫu đồng hồ đếm ngược"
+
+#: admin/product.php:207
+msgid "Dates and times value are set in your website timezone."
+msgstr "Giá trị ngày và giờ bạn thiết lập trong cài đặt Múi giờ trên website"
+
+#: admin/product.php:207
+msgid "Cancel"
+msgstr "Hủy"
+
+#: admin/product.php:205 admin/product.php:258
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr "Tới&hellip;"
+
+#: admin/product.php:203 admin/product.php:253
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr "Từ&hellip;"
+
+#: admin/product.php:202
+msgid "Sale price dates and times"
+msgstr "Ngày và giờ giảm giá"
+
+#: admin/admin.php:1890 frontend/shortcode.php:268
+msgid "border:1px solid "
+msgstr "Viền:1px solid "
+
+#: admin/admin.php:1884 frontend/shortcode.php:262 frontend/shortcode.php:291
+#: frontend/shortcode.php:300 frontend/shortcode.php:308
+msgid "width:"
+msgstr "độ rộng:"
+
+#: admin/admin.php:1881 frontend/shortcode.php:259 frontend/shortcode.php:288
+#: frontend/shortcode.php:297 frontend/shortcode.php:305
+msgid "height:"
+msgstr "Chiều cao"
+
+#: admin/admin.php:1834 admin/admin.php:1852 includes/countdown-style.php:108
+#: includes/countdown-style.php:126
+msgid "border: 1px solid "
+msgstr "Viền: 1px solid "
+
+#: admin/admin.php:1817 admin/admin.php:1864 admin/admin.php:1875
+#: frontend/shortcode.php:253 frontend/shortcode.php:281
+#: includes/countdown-style.php:85 includes/countdown-style.php:141
+#: includes/countdown-style.php:152
+msgid "font-size:"
+msgstr "Kích thước Font:"
+
+#: frontend/shortcode.php:249 frontend/shortcode.php:277
+#: includes/countdown-style.php:73
+msgid "font-size: "
+msgstr "Kích thước Font"
+
+#: admin/admin.php:1814 includes/countdown-style.php:61
+msgid "background-color: "
+msgstr "màu nền:"
+
+#: admin/admin.php:1813 includes/countdown-style.php:60
+msgid "border-color: "
+msgstr "màu viền"
+
+#: admin/admin.php:1831 admin/admin.php:1849 admin/admin.php:1887
+#: frontend/shortcode.php:265 includes/countdown-style.php:52
+#: includes/countdown-style.php:105 includes/countdown-style.php:123
+msgid "border-radius:"
+msgstr "Bo viền:"
+
+#: admin/admin.php:1828 admin/admin.php:1846 includes/countdown-style.php:49
+#: includes/countdown-style.php:102 includes/countdown-style.php:120
+msgid "padding:"
+msgstr "Lề trong(padding):"
+
+#: admin/admin.php:1810 admin/admin.php:1825 admin/admin.php:1843
+#: admin/admin.php:1861 admin/admin.php:1872 includes/countdown-style.php:46
+#: includes/countdown-style.php:55 includes/countdown-style.php:69
+#: includes/countdown-style.php:82 includes/countdown-style.php:99
+#: includes/countdown-style.php:117 includes/countdown-style.php:131
+#: includes/countdown-style.php:138 includes/countdown-style.php:149
+msgid "background:"
+msgstr "nền:"
+
+#: admin/admin.php:1822 admin/admin.php:1840 admin/admin.php:1858
+#: admin/admin.php:1869 includes/countdown-style.php:43
+#: includes/countdown-style.php:65 includes/countdown-style.php:79
+#: includes/countdown-style.php:96 includes/countdown-style.php:114
+#: includes/countdown-style.php:135 includes/countdown-style.php:146
+msgid "color:"
+msgstr "màu:"
+
+#: frontend/shortcode.php:238 frontend/shortcode.php:239
+#: frontend/shortcode.php:240 frontend/shortcode.php:241
+msgid "transform: rotate("
+msgstr "chuyển: xoay("
+
+#: admin/admin.php:898 frontend/shortcode.php:177
+msgid "s"
+msgstr "s"
+
+#: admin/admin.php:897 frontend/shortcode.php:176
+msgid "m"
+msgstr "p"
+
+#: admin/admin.php:896 frontend/shortcode.php:175
+msgid "h"
+msgstr "g"
+
+#: admin/admin.php:895 frontend/shortcode.php:174
+msgid "d"
+msgstr "n"
+
+#: admin/admin.php:886 frontend/shortcode.php:165
+msgid "seconds"
+msgstr "giây"
+
+#: admin/admin.php:885 frontend/shortcode.php:164
+msgid "minutes"
+msgstr "phút"
+
+#: admin/admin.php:884 frontend/shortcode.php:163
+msgid "hours"
+msgstr "giờ"
+
+#: admin/admin.php:880 frontend/shortcode.php:159
+msgid "secs"
+msgstr "giây"
+
+#: admin/admin.php:879 frontend/shortcode.php:158
+msgid "mins"
+msgstr "phút"
+
+#: admin/admin.php:878 frontend/shortcode.php:157
+msgid "hrs"
+msgstr "giờ"
+
+#: admin/admin.php:877 admin/admin.php:883 frontend/shortcode.php:156
+#: frontend/shortcode.php:162
+msgid "days"
+msgstr "ngày"
+
+#. Author URI of the plugin
+#: sales-countdown-timer.php
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#. Author of the plugin
+#: sales-countdown-timer.php
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#. Description of the plugin
+#: sales-countdown-timer.php
+msgid "Create a sense of urgency with a countdown to the beginning or end of sales, store launch or other events for higher conversions."
+msgstr "Tạo tâm lý khẩn cấp với đồng hồ đếm ngược để bắt đầu hoặc kết thúc sự kiện giảm giá, ra mắt cửa hàng hoặc các sự kiện khác nhằm tăng tỷ lệ chuyển đổi."
+
+#. Plugin URI of the plugin
+#: sales-countdown-timer.php
+msgid "https://villatheme.com/extensions/sales-countdown-timer/"
+msgstr "https://villatheme.com/extensions/sales-countdown-timer/"
+
+#. Plugin Name of the plugin
+#: sales-countdown-timer.php admin/admin.php:31 admin/admin.php:617
+#: includes/3rd/elementor/shortcode-widget.php:15
+msgid "Sales Countdown Timer"
+msgstr "Sales Countdown Timer"
